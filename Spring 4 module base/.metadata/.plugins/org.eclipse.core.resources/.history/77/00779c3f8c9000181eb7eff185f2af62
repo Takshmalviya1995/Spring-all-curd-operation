@@ -1,0 +1,12 @@
+package com.aartek.service;
+
+import com.aartek.model.Employee;
+
+public class EmployeeService {
+
+	public String checkEmployee(Employee emp)
+	{
+		System.out.println("inside employee Service");
+		return "hello";
+	}
+}

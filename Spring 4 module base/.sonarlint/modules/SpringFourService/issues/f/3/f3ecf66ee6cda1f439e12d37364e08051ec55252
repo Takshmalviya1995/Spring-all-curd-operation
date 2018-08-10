@@ -1,0 +1,21 @@
+
+l
+squid:S106 "9Replace this use of System.out or System.err by a logger.(¼ÎòÆ8åËÖ¦Í,HêRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ï‰¢µ8¶…±¨Í,HéRMAJORZ
+CODE_SMELL
+esquid:S1481",Remove this unused "product" local variable.(‡áùìÿÿÿÿÿ8ã™²¨Í,HèRMINORZ
+CODE_SMELL
+l
+squid:S106."9Replace this use of System.out or System.err by a logger.( ¦ùÖ8ÅÂ•ÝÍ,H‰RMAJORZ
+CODE_SMELL
+q
+squid:S1064"9Replace this use of System.out or System.err by a logger.(“±Á·üÿÿÿÿ8¤›æßÍ,Hž
+RMAJORZ
+CODE_SMELL
+tsquid:S1854";Remove this useless assignment to local variable "product".(‡áùìÿÿÿÿÿ8ã™²¨Í,HëRMAJORZ
+CODE_SMELL
+l
+squid:S106("9Replace this use of System.out or System.err by a logger.(ó äú8ðš—ÚÍ,HùRMAJORZ
+CODE_SMELL

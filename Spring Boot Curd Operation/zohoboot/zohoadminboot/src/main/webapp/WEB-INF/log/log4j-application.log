@@ -1,0 +1,1310 @@
+2018-07-17 15:45:17 INFO  LoginController:41 - Inside controller : log
+2018-07-17 15:52:45 INFO  LoginController:40 - Inside controller
+2018-07-17 15:52:45 INFO  LoginController:41 - Inside controller : log
+2018-07-17 15:52:51 INFO  LoginController:55 - inside SignIn Action
+2018-07-17 15:52:51 INFO  LoginController:56 - hgriug
+2018-07-17 15:52:51 INFO  LoginController:57 - fhgewiu
+2018-07-17 15:52:51 WARN  LoginService:20 - Inside Service : Login
+2018-07-17 15:52:51 WARN  LoginService:22 - hgriug
+2018-07-17 15:52:51 WARN  LoginService:23 - fhgewiu
+2018-07-17 15:52:51 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-17 15:52:51 DEBUG LoginRepository:20 - hgriug
+2018-07-17 15:52:51 DEBUG LoginRepository:21 - fhgewiu
+2018-07-19 12:37:14 INFO  LoginController:40 - Inside controller
+2018-07-19 12:37:14 INFO  LoginController:41 - Inside controller : log
+2018-07-19 14:55:54 WARN  LoginService:20 - Inside Service : Login
+2018-07-19 14:55:55 WARN  LoginService:22 - abc
+2018-07-19 14:55:55 WARN  LoginService:23 - 12345
+2018-07-19 14:55:55 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-19 14:55:55 DEBUG LoginRepository:20 - abc
+2018-07-19 14:55:55 DEBUG LoginRepository:21 - 12345
+2018-07-21 15:01:48 WARN  LoginService:20 - Inside Service : Login
+2018-07-21 15:01:48 WARN  LoginService:22 - abc
+2018-07-21 15:01:48 WARN  LoginService:23 - 12345
+2018-07-21 15:01:48 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-21 15:01:48 DEBUG LoginRepository:20 - abc
+2018-07-21 15:01:48 DEBUG LoginRepository:21 - 12345
+2018-07-21 15:12:57 WARN  LoginService:20 - Inside Service : Login
+2018-07-21 15:12:57 WARN  LoginService:22 - abc
+2018-07-21 15:12:57 WARN  LoginService:23 - 12345
+2018-07-21 15:12:57 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-21 15:12:57 DEBUG LoginRepository:20 - abc
+2018-07-21 15:12:57 DEBUG LoginRepository:21 - 12345
+2018-07-21 15:32:39 WARN  LoginService:20 - Inside Service : Login
+2018-07-21 15:32:39 WARN  LoginService:22 - abc
+2018-07-21 15:32:39 WARN  LoginService:23 - 12345
+2018-07-21 15:32:39 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-21 15:32:39 DEBUG LoginRepository:20 - abc
+2018-07-21 15:32:39 DEBUG LoginRepository:21 - 12345
+2018-07-21 15:45:36 WARN  LoginService:20 - Inside Service : Login
+2018-07-21 15:45:36 WARN  LoginService:22 - abc
+2018-07-21 15:45:36 WARN  LoginService:23 - 12345
+2018-07-21 15:45:36 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-21 15:45:36 DEBUG LoginRepository:20 - abc
+2018-07-21 15:45:36 DEBUG LoginRepository:21 - 12345
+2018-07-21 15:55:01 WARN  LoginService:20 - Inside Service : Login
+2018-07-21 15:55:01 WARN  LoginService:22 - abc
+2018-07-21 15:55:01 WARN  LoginService:23 - 12345
+2018-07-21 15:55:01 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-21 15:55:01 DEBUG LoginRepository:20 - abc
+2018-07-21 15:55:01 DEBUG LoginRepository:21 - 12345
+2018-07-21 16:03:27 WARN  LoginService:20 - Inside Service : Login
+2018-07-21 16:03:27 WARN  LoginService:22 - abc
+2018-07-21 16:03:27 WARN  LoginService:23 - 12345
+2018-07-21 16:03:27 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-21 16:03:27 DEBUG LoginRepository:20 - abc
+2018-07-21 16:03:27 DEBUG LoginRepository:21 - 12345
+2018-07-21 17:00:16 WARN  LoginService:20 - Inside Service : Login
+2018-07-21 17:00:16 WARN  LoginService:22 - abc
+2018-07-21 17:00:16 WARN  LoginService:23 - 12345
+2018-07-21 17:00:16 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-21 17:00:16 DEBUG LoginRepository:20 - abc
+2018-07-21 17:00:16 DEBUG LoginRepository:21 - 12345
+2018-07-21 17:02:57 WARN  LoginService:20 - Inside Service : Login
+2018-07-21 17:02:57 WARN  LoginService:22 - abc
+2018-07-21 17:02:57 WARN  LoginService:23 - 12345
+2018-07-21 17:02:57 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-21 17:02:57 DEBUG LoginRepository:20 - abc
+2018-07-21 17:02:57 DEBUG LoginRepository:21 - 12345
+2018-07-21 17:05:06 WARN  LoginService:20 - Inside Service : Login
+2018-07-21 17:05:06 WARN  LoginService:22 - abc
+2018-07-21 17:05:06 WARN  LoginService:23 - 12345
+2018-07-21 17:05:06 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-21 17:05:06 DEBUG LoginRepository:20 - abc
+2018-07-21 17:05:06 DEBUG LoginRepository:21 - 12345
+2018-07-26 20:40:19 INFO  LoginController:40 - Inside controller
+2018-07-26 20:40:19 INFO  LoginController:41 - Inside controller : log
+2018-07-26 20:40:31 INFO  LoginController:55 - inside SignIn Action
+2018-07-26 20:40:31 INFO  LoginController:56 - taksh
+2018-07-26 20:40:31 INFO  LoginController:57 - 1234
+2018-07-26 20:40:31 WARN  LoginService:20 - Inside Service : Login
+2018-07-26 20:40:31 WARN  LoginService:22 - taksh
+2018-07-26 20:40:31 WARN  LoginService:23 - 1234
+2018-07-26 20:40:31 DEBUG LoginRepository:21 - Inside Repository : Login
+2018-07-26 20:40:31 DEBUG LoginRepository:23 - taksh
+2018-07-26 20:40:31 DEBUG LoginRepository:24 - 1234
+2018-07-28 15:27:25 INFO  LoginController:40 - Inside controller
+2018-07-28 15:27:25 INFO  LoginController:41 - Inside controller : log
+2018-07-28 15:27:52 INFO  LoginController:55 - inside SignIn Action
+2018-07-28 15:27:52 INFO  LoginController:56 - patidar@gmail.com
+2018-07-28 15:27:52 INFO  LoginController:57 - 147852
+2018-07-28 15:27:52 WARN  LoginService:20 - Inside Service : Login
+2018-07-28 15:27:52 WARN  LoginService:22 - patidar@gmail.com
+2018-07-28 15:27:52 WARN  LoginService:23 - 147852
+2018-07-28 15:27:52 DEBUG LoginRepository:21 - Inside Repository : Login
+2018-07-28 15:27:52 DEBUG LoginRepository:23 - patidar@gmail.com
+2018-07-28 15:27:52 DEBUG LoginRepository:24 - 147852
+2018-07-30 17:50:14 INFO  UserController:34 - Inside controller
+2018-07-30 17:50:14 INFO  UserController:35 - Inside controller : log
+2018-07-30 17:50:49 INFO  UserController:42 - inside SignIn Action
+2018-07-30 17:50:49 INFO  UserController:43 - Takshmalviya23@gmail.com
+2018-07-30 17:50:49 INFO  UserController:44 - 123456789
+2018-07-30 17:50:49 WARN  UserService:20 - Inside Service : checkUser
+2018-07-30 17:50:49 WARN  UserService:22 - Takshmalviya23@gmail.com
+2018-07-30 17:50:49 WARN  UserService:23 - 123456789
+2018-07-30 17:50:49 DEBUG UserRepository:21 - Inside Repository : Login
+2018-07-30 17:50:49 DEBUG UserRepository:23 - Takshmalviya23@gmail.com
+2018-07-30 17:50:49 DEBUG UserRepository:24 - 123456789
+2018-07-30 18:19:35 INFO  UserController:36 - Inside controller
+2018-07-30 18:19:35 INFO  UserController:37 - Inside controller : log
+2018-07-30 18:21:42 INFO  UserController:36 - Inside controller
+2018-07-30 18:21:42 INFO  UserController:37 - Inside controller : log
+2018-07-30 18:21:44 INFO  UserController:54 - Inside user Controller : getUserDetails
+2018-07-30 18:21:44 WARN  UserService:33 - Inside Service : getUserDetails
+2018-07-30 18:21:44 DEBUG UserRepository:33 - Inside Repository : getUserDetails
+2018-07-30 18:21:45 DEBUG UserRepository:39 - Takshmalviya23@gmail.com
+2018-07-30 18:21:45 DEBUG UserRepository:40 - 123456789
+2018-07-30 18:21:45 WARN  UserService:39 - Takshmalviya23@gmail.com
+2018-07-30 18:21:45 WARN  UserService:40 - 123456789
+2018-07-30 18:21:45 INFO  UserController:56 - 
+2018-07-30 18:21:45 INFO  UserController:57 - 
+2018-07-30 18:22:53 INFO  UserController:36 - Inside controller
+2018-07-30 18:22:53 INFO  UserController:37 - Inside controller : log
+2018-07-30 18:22:58 INFO  UserController:54 - Inside user Controller : getUserDetails
+2018-07-30 18:22:58 WARN  UserService:33 - Inside Service : getUserDetails
+2018-07-30 18:22:58 DEBUG UserRepository:33 - Inside Repository : getUserDetails
+2018-07-30 18:22:58 DEBUG UserRepository:39 - Takshmalviya23@gmail.com
+2018-07-30 18:22:58 DEBUG UserRepository:40 - 123456789
+2018-07-30 18:22:58 WARN  UserService:39 - Takshmalviya23@gmail.com
+2018-07-30 18:22:58 WARN  UserService:40 - 123456789
+2018-07-30 18:22:58 INFO  UserController:56 - 
+2018-07-30 18:22:58 INFO  UserController:57 - 
+2018-07-30 18:23:08 INFO  UserController:36 - Inside controller
+2018-07-30 18:23:08 INFO  UserController:37 - Inside controller : log
+2018-07-30 18:23:39 INFO  UserController:44 - inside SignIn Action
+2018-07-30 18:23:39 INFO  UserController:45 - vishalpatidar54@gmail.com
+2018-07-30 18:23:39 INFO  UserController:46 - 465484
+2018-07-30 18:23:39 WARN  UserService:23 - Inside Service : checkUser
+2018-07-30 18:23:39 WARN  UserService:25 - vishalpatidar54@gmail.com
+2018-07-30 18:23:39 WARN  UserService:26 - 465484
+2018-07-30 18:23:39 DEBUG UserRepository:24 - Inside Repository : checkUser
+2018-07-30 18:23:39 DEBUG UserRepository:26 - vishalpatidar54@gmail.com
+2018-07-30 18:23:39 DEBUG UserRepository:27 - 465484
+2018-07-30 19:16:23 INFO  UserController:38 - Inside controller
+2018-07-30 19:16:23 INFO  UserController:39 - Inside controller : log
+2018-07-30 19:16:25 INFO  UserController:56 - Inside user Controller : getUserDetails
+2018-07-30 19:16:25 WARN  UserService:32 - Inside Service : getUserDetails
+2018-07-30 19:16:25 DEBUG UserRepository:33 - Inside Repository : getUserDetails
+2018-07-30 19:16:26 DEBUG UserRepository:39 - Takshmalviya23@gmail.com
+2018-07-30 19:16:26 DEBUG UserRepository:40 - 123456789
+2018-07-30 19:16:26 DEBUG UserRepository:39 - vishalpatidar54@gmail.com
+2018-07-30 19:16:26 DEBUG UserRepository:40 - 465484
+2018-07-30 19:16:26 WARN  UserService:38 - Takshmalviya23@gmail.com
+2018-07-30 19:16:26 WARN  UserService:39 - 123456789
+2018-07-30 19:16:26 WARN  UserService:38 - vishalpatidar54@gmail.com
+2018-07-30 19:16:26 WARN  UserService:39 - 465484
+2018-07-30 19:16:26 INFO  UserController:58 - 
+2018-07-30 19:16:26 INFO  UserController:59 - 
+2018-07-30 19:16:30 INFO  UserController:66 - Inside user Controller : ModelAndView edit
+2018-07-30 19:16:30 WARN  UserService:45 - Inside Service : editUser
+2018-07-30 19:16:30 DEBUG UserRepository:46 - Inside Repository : editUser
+2018-07-30 19:16:30 DEBUG UserRepository:53 - Takshmalviya23@gmail.com
+2018-07-30 19:16:30 DEBUG UserRepository:54 - 123456789
+2018-07-30 19:22:37 INFO  UserController:38 - Inside controller
+2018-07-30 19:22:37 INFO  UserController:39 - Inside controller : log
+2018-07-30 19:22:40 INFO  UserController:56 - Inside user Controller : getUserDetails
+2018-07-30 19:22:40 WARN  UserService:32 - Inside Service : getUserDetails
+2018-07-30 19:22:40 DEBUG UserRepository:33 - Inside Repository : getUserDetails
+2018-07-30 19:22:40 DEBUG UserRepository:39 - Takshmalviya23@gmail.com
+2018-07-30 19:22:40 DEBUG UserRepository:40 - 123456789
+2018-07-30 19:22:40 DEBUG UserRepository:39 - vishalpatidar54@gmail.com
+2018-07-30 19:22:40 DEBUG UserRepository:40 - 465484
+2018-07-30 19:22:40 WARN  UserService:38 - Takshmalviya23@gmail.com
+2018-07-30 19:22:40 WARN  UserService:39 - 123456789
+2018-07-30 19:22:40 WARN  UserService:38 - vishalpatidar54@gmail.com
+2018-07-30 19:22:40 WARN  UserService:39 - 465484
+2018-07-30 19:22:40 INFO  UserController:58 - 
+2018-07-30 19:22:40 INFO  UserController:59 - 
+2018-07-30 19:22:44 INFO  UserController:66 - Inside user Controller : ModelAndView edit
+2018-07-30 19:22:44 WARN  UserService:45 - Inside Service : editUser
+2018-07-30 19:22:44 DEBUG UserRepository:46 - Inside Repository : editUser
+2018-07-30 19:22:45 DEBUG UserRepository:53 - Takshmalviya23@gmail.com
+2018-07-30 19:22:45 DEBUG UserRepository:54 - 123456789
+2018-07-30 19:23:01 WARN  UserService:51 - Inside UserService : updateUser
+2018-07-30 19:23:02 DEBUG UserRepository:62 - Inside employeeRepository : updateUser
+2018-07-30 19:31:17 INFO  UserController:38 - Inside controller
+2018-07-30 19:31:17 INFO  UserController:39 - Inside controller : log
+2018-07-30 19:31:19 INFO  UserController:56 - Inside user Controller : getUserDetails
+2018-07-30 19:31:19 WARN  UserService:32 - Inside Service : getUserDetails
+2018-07-30 19:31:19 DEBUG UserRepository:33 - Inside Repository : getUserDetails
+2018-07-30 19:31:19 DEBUG UserRepository:39 - Takshmalviya23@gmail.com
+2018-07-30 19:31:19 DEBUG UserRepository:40 - 
+2018-07-30 19:31:19 DEBUG UserRepository:39 - vishalpatidar54@gmail.com
+2018-07-30 19:31:19 DEBUG UserRepository:40 - 465484
+2018-07-30 19:31:19 WARN  UserService:38 - Takshmalviya23@gmail.com
+2018-07-30 19:31:19 WARN  UserService:39 - 
+2018-07-30 19:31:19 WARN  UserService:38 - vishalpatidar54@gmail.com
+2018-07-30 19:31:19 WARN  UserService:39 - 465484
+2018-07-30 19:31:19 INFO  UserController:58 - 
+2018-07-30 19:31:19 INFO  UserController:59 - 
+2018-07-30 19:31:23 INFO  UserController:66 - Inside user Controller : ModelAndView edit
+2018-07-30 19:31:23 WARN  UserService:45 - Inside Service : editUser
+2018-07-30 19:31:23 DEBUG UserRepository:46 - Inside Repository : editUser
+2018-07-30 19:31:23 DEBUG UserRepository:53 - Takshmalviya23@gmail.com
+2018-07-30 19:31:23 DEBUG UserRepository:54 - 
+2018-07-30 19:31:33 WARN  UserService:51 - Inside UserService : updateUser
+2018-07-30 19:31:33 DEBUG UserRepository:62 - Inside employeeRepository : updateUser
+2018-07-30 19:36:36 INFO  UserController:66 - Inside user Controller : ModelAndView edit
+2018-07-30 19:36:36 WARN  UserService:45 - Inside Service : editUser
+2018-07-30 19:36:36 DEBUG UserRepository:46 - Inside Repository : editUser
+2018-07-30 19:36:36 DEBUG UserRepository:53 - Takshmalviya23@gmail.com
+2018-07-30 19:36:36 DEBUG UserRepository:54 - 465456
+2018-07-30 19:43:57 INFO  UserController:38 - Inside controller
+2018-07-30 19:43:57 INFO  UserController:39 - Inside controller : log
+2018-07-30 19:44:03 INFO  UserController:56 - Inside user Controller : getUserDetails
+2018-07-30 19:44:03 WARN  UserService:32 - Inside Service : getUserDetails
+2018-07-30 19:44:03 DEBUG UserRepository:34 - Inside Repository : getUserDetails
+2018-07-30 19:44:04 DEBUG UserRepository:40 - Takshmalviya23@gmail.com
+2018-07-30 19:44:04 DEBUG UserRepository:41 - 465456
+2018-07-30 19:44:04 DEBUG UserRepository:40 - vishalpatidar54@gmail.com
+2018-07-30 19:44:04 DEBUG UserRepository:41 - 465484
+2018-07-30 19:44:04 WARN  UserService:38 - Takshmalviya23@gmail.com
+2018-07-30 19:44:04 WARN  UserService:39 - 465456
+2018-07-30 19:44:04 WARN  UserService:38 - vishalpatidar54@gmail.com
+2018-07-30 19:44:04 WARN  UserService:39 - 465484
+2018-07-30 19:44:04 INFO  UserController:58 - 
+2018-07-30 19:44:04 INFO  UserController:59 - 
+2018-07-30 19:44:08 INFO  UserController:81 - Inside user Controller : deleteUser
+2018-07-30 19:44:08 INFO  UserController:82 - Employ ID: 2
+2018-07-30 19:45:52 INFO  UserController:38 - Inside controller
+2018-07-30 19:45:52 INFO  UserController:39 - Inside controller : log
+2018-07-30 19:46:08 INFO  UserController:46 - inside SignIn Action
+2018-07-30 19:46:08 INFO  UserController:47 - vishalpatidar54@gmail.com
+2018-07-30 19:46:08 INFO  UserController:48 - 45465456
+2018-07-30 19:46:08 WARN  UserService:23 - Inside Service : checkUser
+2018-07-30 19:46:08 WARN  UserService:25 - vishalpatidar54@gmail.com
+2018-07-30 19:46:08 WARN  UserService:26 - 45465456
+2018-07-30 19:46:08 DEBUG UserRepository:25 - Inside Repository : checkUser
+2018-07-30 19:46:08 DEBUG UserRepository:27 - vishalpatidar54@gmail.com
+2018-07-30 19:46:08 DEBUG UserRepository:28 - 45465456
+2018-07-30 19:46:11 INFO  UserController:56 - Inside user Controller : getUserDetails
+2018-07-30 19:46:11 WARN  UserService:32 - Inside Service : getUserDetails
+2018-07-30 19:46:11 DEBUG UserRepository:34 - Inside Repository : getUserDetails
+2018-07-30 19:46:11 DEBUG UserRepository:40 - Takshmalviya23@gmail.com
+2018-07-30 19:46:11 DEBUG UserRepository:41 - 465456
+2018-07-30 19:46:11 DEBUG UserRepository:40 - vishalpatidar54@gmail.com
+2018-07-30 19:46:11 DEBUG UserRepository:41 - 45465456
+2018-07-30 19:46:11 WARN  UserService:38 - Takshmalviya23@gmail.com
+2018-07-30 19:46:11 WARN  UserService:39 - 465456
+2018-07-30 19:46:11 WARN  UserService:38 - vishalpatidar54@gmail.com
+2018-07-30 19:46:11 WARN  UserService:39 - 45465456
+2018-07-30 19:46:11 INFO  UserController:58 - 
+2018-07-30 19:46:11 INFO  UserController:59 - 
+2018-07-30 19:46:16 INFO  UserController:81 - Inside user Controller : deleteUser
+2018-07-30 19:46:16 INFO  UserController:82 - Employ ID: 3
+2018-07-30 19:46:20 INFO  UserController:38 - Inside controller
+2018-07-30 19:46:20 INFO  UserController:39 - Inside controller : log
+2018-07-31 17:05:08 INFO  UserController:38 - Inside controller
+2018-07-31 17:05:08 INFO  UserController:39 - Inside controller : log
+2018-07-31 17:05:11 INFO  UserController:56 - Inside user Controller : getUserDetails
+2018-07-31 17:05:11 WARN  UserService:32 - Inside Service : getUserDetails
+2018-07-31 17:05:11 DEBUG UserRepository:34 - Inside Repository : getUserDetails
+2018-07-31 17:05:12 DEBUG UserRepository:40 - Takshmalviya23@gmail.com
+2018-07-31 17:05:12 DEBUG UserRepository:41 - 465456
+2018-07-31 17:05:12 WARN  UserService:38 - Takshmalviya23@gmail.com
+2018-07-31 17:05:12 WARN  UserService:39 - 465456
+2018-07-31 17:05:12 INFO  UserController:58 - 
+2018-07-31 17:05:12 INFO  UserController:59 - 
+2018-07-31 17:05:17 INFO  UserController:38 - Inside controller
+2018-07-31 17:05:17 INFO  UserController:39 - Inside controller : log
+2018-07-31 17:05:33 INFO  UserController:46 - inside SignIn Action
+2018-07-31 17:05:33 INFO  UserController:47 - vishalpatidar54@gmail.com
+2018-07-31 17:05:33 INFO  UserController:48 - 4565145
+2018-07-31 17:05:33 WARN  UserService:23 - Inside Service : checkUser
+2018-07-31 17:05:33 WARN  UserService:25 - vishalpatidar54@gmail.com
+2018-07-31 17:05:33 WARN  UserService:26 - 4565145
+2018-07-31 17:05:33 DEBUG UserRepository:25 - Inside Repository : checkUser
+2018-07-31 17:05:33 DEBUG UserRepository:27 - vishalpatidar54@gmail.com
+2018-07-31 17:05:33 DEBUG UserRepository:28 - 4565145
+2018-07-31 17:05:36 INFO  UserController:56 - Inside user Controller : getUserDetails
+2018-07-31 17:05:36 WARN  UserService:32 - Inside Service : getUserDetails
+2018-07-31 17:05:36 DEBUG UserRepository:34 - Inside Repository : getUserDetails
+2018-07-31 17:05:36 DEBUG UserRepository:40 - Takshmalviya23@gmail.com
+2018-07-31 17:05:36 DEBUG UserRepository:41 - 465456
+2018-07-31 17:05:36 DEBUG UserRepository:40 - vishalpatidar54@gmail.com
+2018-07-31 17:05:36 DEBUG UserRepository:41 - 4565145
+2018-07-31 17:05:36 WARN  UserService:38 - Takshmalviya23@gmail.com
+2018-07-31 17:05:36 WARN  UserService:39 - 465456
+2018-07-31 17:05:36 WARN  UserService:38 - vishalpatidar54@gmail.com
+2018-07-31 17:05:36 WARN  UserService:39 - 4565145
+2018-07-31 17:05:36 INFO  UserController:58 - 
+2018-07-31 17:05:36 INFO  UserController:59 - 
+2018-07-31 17:05:40 INFO  UserController:81 - Inside user Controller : deleteUser
+2018-07-31 17:05:40 INFO  UserController:82 - Employ ID: 4
+2018-07-31 17:05:40 WARN  UserService:32 - Inside Service : getUserDetails
+2018-07-31 17:05:40 DEBUG UserRepository:34 - Inside Repository : getUserDetails
+2018-07-31 17:05:40 DEBUG UserRepository:40 - Takshmalviya23@gmail.com
+2018-07-31 17:05:40 DEBUG UserRepository:41 - 465456
+2018-07-31 17:05:40 WARN  UserService:38 - Takshmalviya23@gmail.com
+2018-07-31 17:05:40 WARN  UserService:39 - 465456
+2018-07-31 17:11:18 INFO  UserController:38 - Inside controller
+2018-07-31 17:11:18 INFO  UserController:39 - Inside controller : log
+2018-07-31 17:11:42 INFO  UserController:46 - inside SignIn Action
+2018-07-31 17:11:42 INFO  UserController:47 - c
+2018-07-31 17:11:42 INFO  UserController:48 - d
+2018-07-31 17:11:42 WARN  UserService:23 - Inside Service : checkUser
+2018-07-31 17:11:42 WARN  UserService:25 - c
+2018-07-31 17:11:42 WARN  UserService:26 - d
+2018-07-31 17:11:42 DEBUG UserRepository:25 - Inside Repository : checkUser
+2018-07-31 17:11:42 DEBUG UserRepository:27 - c
+2018-07-31 17:11:42 DEBUG UserRepository:28 - d
+2018-07-31 17:13:23 INFO  UserController:38 - Inside controller
+2018-07-31 17:13:23 INFO  UserController:39 - Inside controller : log
+2018-07-31 17:13:37 INFO  UserController:46 - inside SignIn Action
+2018-07-31 17:13:37 INFO  UserController:47 - c
+2018-07-31 17:13:37 INFO  UserController:48 - d
+2018-07-31 17:13:37 WARN  UserService:23 - Inside Service : checkUser
+2018-07-31 17:13:37 WARN  UserService:25 - c
+2018-07-31 17:13:37 WARN  UserService:26 - d
+2018-07-31 17:13:37 DEBUG UserRepository:25 - Inside Repository : checkUser
+2018-07-31 17:13:37 DEBUG UserRepository:27 - c
+2018-07-31 17:13:37 DEBUG UserRepository:28 - d
+2018-07-31 17:15:11 INFO  UserController:38 - Inside controller
+2018-07-31 17:15:11 INFO  UserController:39 - Inside controller : log
+2018-07-31 17:15:26 INFO  UserController:46 - inside SignIn Action
+2018-07-31 17:15:26 INFO  UserController:47 - shubham58@gmail.com
+2018-07-31 17:15:26 INFO  UserController:48 - 54
+2018-07-31 17:15:26 WARN  UserService:23 - Inside Service : checkUser
+2018-07-31 17:15:26 WARN  UserService:25 - shubham58@gmail.com
+2018-07-31 17:15:26 WARN  UserService:26 - 54
+2018-07-31 17:15:26 DEBUG UserRepository:25 - Inside Repository : checkUser
+2018-07-31 17:15:26 DEBUG UserRepository:27 - shubham58@gmail.com
+2018-07-31 17:15:26 DEBUG UserRepository:28 - 54
+2018-07-31 17:43:33 INFO  UserController:38 - Inside controller
+2018-07-31 17:43:33 INFO  UserController:39 - Inside controller : log
+2018-07-31 17:43:52 INFO  UserController:46 - inside SignIn Action
+2018-07-31 17:43:52 WARN  UserService:24 - Inside Service : checkUser
+2018-07-31 17:43:52 WARN  UserService:26 - c
+2018-07-31 17:43:52 WARN  UserService:27 - 123456
+2018-07-31 17:43:52 DEBUG UserRepository:25 - Inside Repository : checkUser
+2018-07-31 17:43:52 DEBUG UserRepository:27 - c
+2018-07-31 17:43:52 DEBUG UserRepository:28 - 123456
+2018-07-31 17:43:58 INFO  UserController:46 - inside SignIn Action
+2018-07-31 17:43:58 WARN  UserService:24 - Inside Service : checkUser
+2018-07-31 17:43:58 WARN  UserService:26 - c
+2018-07-31 17:43:58 WARN  UserService:27 - 123456
+2018-07-31 17:43:58 DEBUG UserRepository:25 - Inside Repository : checkUser
+2018-07-31 17:43:58 DEBUG UserRepository:27 - c
+2018-07-31 17:43:58 DEBUG UserRepository:28 - 123456
+2018-07-31 18:08:48 INFO  UserController:39 - Inside controller
+2018-07-31 18:08:48 INFO  UserController:40 - Inside controller : log
+2018-07-31 18:09:10 INFO  UserController:47 - inside SignIn Action
+2018-07-31 18:09:10 WARN  UserService:24 - Inside Service : checkUser
+2018-07-31 18:09:10 WARN  UserService:26 - c
+2018-07-31 18:09:10 WARN  UserService:27 - 123
+2018-07-31 18:09:10 DEBUG UserRepository:25 - Inside Repository : checkUser
+2018-07-31 18:09:10 DEBUG UserRepository:27 - c
+2018-07-31 18:09:10 DEBUG UserRepository:28 - 123
+2018-07-31 18:12:59 INFO  UserController:39 - Inside controller
+2018-07-31 18:12:59 INFO  UserController:40 - Inside controller : log
+2018-07-31 18:13:16 INFO  UserController:47 - inside SignIn Action
+2018-07-31 18:13:16 WARN  UserService:24 - Inside Service : checkUser
+2018-07-31 18:13:16 WARN  UserService:26 - c
+2018-07-31 18:13:16 WARN  UserService:27 - 123
+2018-07-31 18:13:16 DEBUG UserRepository:25 - Inside Repository : checkUser
+2018-07-31 18:13:16 DEBUG UserRepository:27 - c
+2018-07-31 18:13:16 DEBUG UserRepository:28 - 123
+2018-07-31 18:17:34 INFO  UserController:39 - Inside controller
+2018-07-31 18:17:34 INFO  UserController:40 - Inside controller : log
+2018-07-31 18:17:51 INFO  UserController:47 - inside SignIn Action
+2018-07-31 18:17:51 WARN  UserService:24 - Inside Service : checkUser
+2018-07-31 18:17:51 WARN  UserService:26 - c
+2018-07-31 18:17:51 WARN  UserService:27 - 123
+2018-07-31 18:17:51 DEBUG UserRepository:25 - Inside Repository : checkUser
+2018-07-31 18:17:51 DEBUG UserRepository:27 - c
+2018-07-31 18:17:51 DEBUG UserRepository:28 - 123
+2018-07-31 18:22:06 INFO  UserController:39 - Inside controller
+2018-07-31 18:22:06 INFO  UserController:40 - Inside controller : showUser
+2018-07-31 18:22:31 INFO  UserController:47 - Inside Controller : SignIn Action
+2018-07-31 18:22:31 WARN  UserService:24 - Inside Service : checkUser
+2018-07-31 18:22:31 WARN  UserService:26 - c
+2018-07-31 18:22:31 WARN  UserService:27 - 123
+2018-07-31 18:22:31 DEBUG UserRepository:25 - Inside Repository : checkUser
+2018-07-31 18:22:31 DEBUG UserRepository:27 - c
+2018-07-31 18:22:31 DEBUG UserRepository:28 - 123
+2018-07-31 18:27:41 INFO  UserController:39 - Inside controller
+2018-07-31 18:27:41 INFO  UserController:40 - Inside controller : showUser
+2018-07-31 18:27:55 INFO  UserController:47 - Inside Controller : SignIn Action
+2018-07-31 18:27:55 WARN  UserService:24 - Inside Service : checkUser
+2018-07-31 18:27:55 WARN  UserService:26 - c
+2018-07-31 18:27:55 WARN  UserService:27 - 123
+2018-07-31 18:27:55 DEBUG UserRepository:25 - Inside Repository : checkUser
+2018-07-31 18:27:55 DEBUG UserRepository:27 - c
+2018-07-31 18:27:55 DEBUG UserRepository:28 - 123
+2018-07-31 18:33:24 INFO  UserController:47 - Inside Controller : SignIn Action
+2018-07-31 18:33:24 WARN  UserService:24 - Inside Service : checkUser
+2018-07-31 18:33:24 WARN  UserService:26 - c
+2018-07-31 18:33:24 WARN  UserService:27 - 123
+2018-07-31 18:33:24 DEBUG UserRepository:25 - Inside Repository : checkUser
+2018-07-31 18:33:24 DEBUG UserRepository:27 - c
+2018-07-31 18:33:24 DEBUG UserRepository:28 - 123
+2018-07-31 18:33:28 INFO  UserController:39 - Inside controller
+2018-07-31 18:33:28 INFO  UserController:40 - Inside controller : showUser
+2018-07-31 18:34:16 INFO  UserController:39 - Inside controller
+2018-07-31 18:34:16 INFO  UserController:40 - Inside controller : showUser
+2018-07-31 18:34:27 INFO  UserController:47 - Inside Controller : SignIn Action
+2018-07-31 18:34:27 WARN  UserService:24 - Inside Service : checkUser
+2018-07-31 18:34:27 WARN  UserService:26 - c
+2018-07-31 18:34:27 WARN  UserService:27 - 123
+2018-07-31 18:34:27 DEBUG UserRepository:25 - Inside Repository : checkUser
+2018-07-31 18:34:27 DEBUG UserRepository:27 - c
+2018-07-31 18:34:27 DEBUG UserRepository:28 - 123
+2018-07-31 18:35:04 INFO  UserController:39 - Inside controller
+2018-07-31 18:35:04 INFO  UserController:40 - Inside controller : showUser
+2018-07-31 18:35:16 INFO  UserController:47 - Inside Controller : SignIn Action
+2018-07-31 18:35:16 WARN  UserService:24 - Inside Service : checkUser
+2018-07-31 18:35:16 WARN  UserService:26 - c
+2018-07-31 18:35:16 WARN  UserService:27 - 123
+2018-07-31 18:35:16 DEBUG UserRepository:25 - Inside Repository : checkUser
+2018-07-31 18:35:16 DEBUG UserRepository:27 - c
+2018-07-31 18:35:16 DEBUG UserRepository:28 - 123
+2018-07-31 18:42:11 INFO  UserController:40 - Inside controller
+2018-07-31 18:42:11 INFO  UserController:41 - Inside controller : showUser
+2018-07-31 18:42:36 INFO  UserController:48 - Inside Controller : SignIn Action
+2018-07-31 18:42:36 WARN  UserService:24 - Inside Service : checkUser
+2018-07-31 18:42:36 WARN  UserService:26 - Takshmalviya23@gmail.com
+2018-07-31 18:42:36 WARN  UserService:27 - 123456
+2018-07-31 18:42:37 DEBUG UserRepository:25 - Inside Repository : checkUser
+2018-07-31 18:42:37 DEBUG UserRepository:27 - Takshmalviya23@gmail.com
+2018-07-31 18:42:37 DEBUG UserRepository:28 - 123456
+2018-07-31 18:42:51 INFO  UserController:112 - Inside user Controller : addProduct
+2018-07-31 19:06:14 INFO  UserController:40 - Inside controller
+2018-07-31 19:06:14 INFO  UserController:41 - Inside controller : showUser
+2018-07-31 19:06:41 INFO  UserController:48 - Inside Controller : SignIn Action
+2018-07-31 19:06:41 WARN  UserService:26 - Inside Service : checkUser
+2018-07-31 19:06:41 WARN  UserService:28 - vishalpatidar54@gmail.com
+2018-07-31 19:06:41 WARN  UserService:29 - 564
+2018-07-31 19:06:41 DEBUG UserRepository:26 - Inside Repository : checkUser
+2018-07-31 19:06:41 DEBUG UserRepository:28 - vishalpatidar54@gmail.com
+2018-07-31 19:06:41 DEBUG UserRepository:29 - 564
+2018-07-31 19:06:53 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-07-31 19:08:13 INFO  UserController:119 - Inside Controller : addProductPost
+2018-07-31 19:08:13 INFO  UserController:120 - pen
+2018-07-31 19:08:13 WARN  UserService:82 - Inside Service : addProduct
+2018-07-31 19:08:13 WARN  UserService:84 - pen
+2018-07-31 19:08:13 WARN  UserService:85 - 10
+2018-07-31 19:08:13 DEBUG UserRepository:101 - Inside Repository : addProduct
+2018-07-31 19:08:13 DEBUG UserRepository:103 - pen
+2018-07-31 19:08:13 DEBUG UserRepository:104 - 5
+2018-07-31 19:17:33 INFO  UserController:91 - Inside user Controller : userLogin Get
+2018-07-31 19:17:37 INFO  UserController:40 - Inside controller
+2018-07-31 19:17:37 INFO  UserController:41 - Inside controller : showUser
+2018-07-31 19:17:45 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-07-31 19:17:45 WARN  UserService:91 - Inside Service : getProductDetails
+2018-07-31 19:17:45 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-07-31 19:17:45 DEBUG UserRepository:117 - pen
+2018-07-31 19:17:45 DEBUG UserRepository:118 - 10
+2018-07-31 19:17:45 WARN  UserService:97 - pen
+2018-07-31 19:17:45 WARN  UserService:98 - 10
+2018-07-31 19:18:10 INFO  UserController:120 - Inside Controller : addProductPost
+2018-07-31 19:18:10 INFO  UserController:121 - pencil
+2018-07-31 19:18:10 WARN  UserService:82 - Inside Service : addProduct
+2018-07-31 19:18:10 WARN  UserService:84 - pencil
+2018-07-31 19:18:10 WARN  UserService:85 - 2
+2018-07-31 19:18:10 DEBUG UserRepository:101 - Inside Repository : addProduct
+2018-07-31 19:18:10 DEBUG UserRepository:103 - pencil
+2018-07-31 19:18:10 DEBUG UserRepository:104 - 50
+2018-07-31 19:18:11 WARN  UserService:91 - Inside Service : getProductDetails
+2018-07-31 19:18:11 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-07-31 19:18:11 DEBUG UserRepository:117 - pen
+2018-07-31 19:18:11 DEBUG UserRepository:118 - 10
+2018-07-31 19:18:11 DEBUG UserRepository:117 - pencil
+2018-07-31 19:18:11 DEBUG UserRepository:118 - 2
+2018-07-31 19:18:11 WARN  UserService:97 - pen
+2018-07-31 19:18:11 WARN  UserService:98 - 10
+2018-07-31 19:18:11 WARN  UserService:97 - pencil
+2018-07-31 19:18:11 WARN  UserService:98 - 2
+2018-07-31 19:18:57 INFO  UserController:91 - Inside user Controller : userLogin Get
+2018-07-31 19:19:01 INFO  UserController:40 - Inside controller
+2018-07-31 19:19:01 INFO  UserController:41 - Inside controller : showUser
+2018-07-31 19:19:03 INFO  UserController:56 - Inside user Controller : getUserDetails
+2018-07-31 19:19:03 WARN  UserService:35 - Inside Service : getUserDetails
+2018-07-31 19:19:03 DEBUG UserRepository:35 - Inside Repository : getUserDetails
+2018-07-31 19:19:03 DEBUG UserRepository:41 - c
+2018-07-31 19:19:03 DEBUG UserRepository:42 - 123
+2018-07-31 19:19:03 DEBUG UserRepository:41 - Takshmalviya23@gmail.com
+2018-07-31 19:19:03 DEBUG UserRepository:42 - 123456
+2018-07-31 19:19:03 DEBUG UserRepository:41 - vishalpatidar54@gmail.com
+2018-07-31 19:19:03 DEBUG UserRepository:42 - 564
+2018-07-31 19:19:03 WARN  UserService:41 - c
+2018-07-31 19:19:03 WARN  UserService:42 - 123
+2018-07-31 19:19:03 WARN  UserService:41 - Takshmalviya23@gmail.com
+2018-07-31 19:19:03 WARN  UserService:42 - 123456
+2018-07-31 19:19:03 WARN  UserService:41 - vishalpatidar54@gmail.com
+2018-07-31 19:19:03 WARN  UserService:42 - 564
+2018-07-31 19:19:03 INFO  UserController:58 - 
+2018-07-31 19:19:03 INFO  UserController:59 - 
+2018-08-01 13:14:53 INFO  UserController:91 - Inside user Controller : userLogin Get
+2018-08-01 13:15:06 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 13:15:06 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 13:15:06 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 13:15:06 DEBUG UserRepository:117 - pen
+2018-08-01 13:15:06 DEBUG UserRepository:118 - 10
+2018-08-01 13:15:06 DEBUG UserRepository:117 - pencil
+2018-08-01 13:15:06 DEBUG UserRepository:118 - 2
+2018-08-01 13:15:06 WARN  UserService:97 - pen
+2018-08-01 13:15:06 WARN  UserService:98 - 10
+2018-08-01 13:15:06 WARN  UserService:97 - pencil
+2018-08-01 13:15:06 WARN  UserService:98 - 2
+2018-08-01 13:15:15 INFO  UserController:130 - Inside user Controller : ModelAndView prodEdit
+2018-08-01 13:15:15 WARN  UserService:105 - Inside Service : editProduct
+2018-08-01 13:15:15 DEBUG UserRepository:125 - Inside Repository : editProduct
+2018-08-01 13:15:15 DEBUG UserRepository:132 - pen
+2018-08-01 13:15:15 DEBUG UserRepository:133 - 10
+2018-08-01 13:16:18 INFO  UserController:91 - Inside user Controller : userLogin Get
+2018-08-01 13:16:26 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 13:16:26 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 13:16:26 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 13:16:26 DEBUG UserRepository:117 - pen
+2018-08-01 13:16:26 DEBUG UserRepository:118 - 10
+2018-08-01 13:16:26 DEBUG UserRepository:117 - pencil
+2018-08-01 13:16:26 DEBUG UserRepository:118 - 2
+2018-08-01 13:16:26 WARN  UserService:97 - pen
+2018-08-01 13:16:26 WARN  UserService:98 - 10
+2018-08-01 13:16:26 WARN  UserService:97 - pencil
+2018-08-01 13:16:26 WARN  UserService:98 - 2
+2018-08-01 13:16:30 INFO  UserController:130 - Inside user Controller : ModelAndView prodEdit
+2018-08-01 13:16:30 WARN  UserService:105 - Inside Service : editProduct
+2018-08-01 13:16:30 DEBUG UserRepository:125 - Inside Repository : editProduct
+2018-08-01 13:16:30 DEBUG UserRepository:132 - pen
+2018-08-01 13:16:30 DEBUG UserRepository:133 - 10
+2018-08-01 13:16:41 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 13:16:41 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 13:16:41 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 13:16:41 DEBUG UserRepository:117 - pen
+2018-08-01 13:16:41 DEBUG UserRepository:118 - 10
+2018-08-01 13:16:41 DEBUG UserRepository:117 - pencil
+2018-08-01 13:16:41 DEBUG UserRepository:118 - 2
+2018-08-01 13:16:41 WARN  UserService:97 - pen
+2018-08-01 13:16:41 WARN  UserService:98 - 10
+2018-08-01 13:16:41 WARN  UserService:97 - pencil
+2018-08-01 13:16:41 WARN  UserService:98 - 2
+2018-08-01 14:51:27 INFO  UserController:91 - Inside user Controller : userLogin Get
+2018-08-01 14:51:42 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 14:51:42 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 14:51:42 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 14:51:42 DEBUG UserRepository:117 - pen
+2018-08-01 14:51:42 DEBUG UserRepository:118 - 10
+2018-08-01 14:51:42 DEBUG UserRepository:117 - pencil
+2018-08-01 14:51:42 DEBUG UserRepository:118 - 2
+2018-08-01 14:51:42 WARN  UserService:97 - pen
+2018-08-01 14:51:42 WARN  UserService:98 - 10
+2018-08-01 14:51:42 WARN  UserService:97 - pencil
+2018-08-01 14:51:42 WARN  UserService:98 - 2
+2018-08-01 14:51:48 INFO  UserController:130 - Inside user Controller : ModelAndView prodEdit
+2018-08-01 14:51:48 WARN  UserService:105 - Inside Service : editProduct
+2018-08-01 14:51:48 DEBUG UserRepository:125 - Inside Repository : editProduct
+2018-08-01 14:51:48 DEBUG UserRepository:132 - pen
+2018-08-01 14:51:48 DEBUG UserRepository:133 - 10
+2018-08-01 14:51:57 INFO  UserController:138 - Inside user Controller  : updateProduct Post
+2018-08-01 14:51:57 WARN  UserService:111 - Inside UserService : updateProduct
+2018-08-01 14:51:57 DEBUG UserRepository:140 - Inside employeeRepository : updateProduct
+2018-08-01 14:59:54 INFO  UserController:91 - Inside user Controller : userLogin Get
+2018-08-01 15:00:03 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 15:00:03 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 15:00:03 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 15:00:03 DEBUG UserRepository:117 - pen
+2018-08-01 15:00:03 DEBUG UserRepository:118 - 10
+2018-08-01 15:00:03 DEBUG UserRepository:117 - pencil
+2018-08-01 15:00:03 DEBUG UserRepository:118 - 2
+2018-08-01 15:00:03 WARN  UserService:97 - pen
+2018-08-01 15:00:03 WARN  UserService:98 - 10
+2018-08-01 15:00:03 WARN  UserService:97 - pencil
+2018-08-01 15:00:03 WARN  UserService:98 - 2
+2018-08-01 15:00:06 INFO  UserController:130 - Inside user Controller : ModelAndView prodEdit
+2018-08-01 15:00:06 WARN  UserService:105 - Inside Service : editProduct
+2018-08-01 15:00:06 DEBUG UserRepository:125 - Inside Repository : editProduct
+2018-08-01 15:00:06 DEBUG UserRepository:132 - pen
+2018-08-01 15:00:06 DEBUG UserRepository:133 - 10
+2018-08-01 15:00:16 INFO  UserController:138 - Inside user Controller  : updateProduct Post
+2018-08-01 15:00:16 INFO  UserController:139 - 
+2018-08-01 15:00:16 INFO  UserController:140 - pen
+2018-08-01 15:00:16 WARN  UserService:111 - Inside UserService : updateProduct
+2018-08-01 15:00:16 INFO  UserService:112 - 
+2018-08-01 15:00:16 INFO  UserService:113 - pen
+2018-08-01 15:00:16 DEBUG UserRepository:140 - Inside Repository : updateProduct
+2018-08-01 15:00:16 INFO  UserRepository:141 - 
+2018-08-01 15:00:16 INFO  UserRepository:142 - pen
+2018-08-01 15:04:49 INFO  UserController:91 - Inside user Controller : userLogin Get
+2018-08-01 15:04:57 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 15:04:57 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 15:04:57 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 15:04:57 DEBUG UserRepository:117 - pen
+2018-08-01 15:04:57 DEBUG UserRepository:118 - 10
+2018-08-01 15:04:57 DEBUG UserRepository:117 - pencil
+2018-08-01 15:04:58 DEBUG UserRepository:118 - 2
+2018-08-01 15:04:58 WARN  UserService:97 - pen
+2018-08-01 15:04:58 WARN  UserService:98 - 10
+2018-08-01 15:04:58 WARN  UserService:97 - pencil
+2018-08-01 15:04:58 WARN  UserService:98 - 2
+2018-08-01 15:05:02 INFO  UserController:130 - Inside user Controller : ModelAndView prodEdit
+2018-08-01 15:05:02 WARN  UserService:105 - Inside Service : editProduct
+2018-08-01 15:05:02 DEBUG UserRepository:125 - Inside Repository : editProduct
+2018-08-01 15:05:02 DEBUG UserRepository:132 - pen
+2018-08-01 15:05:02 DEBUG UserRepository:133 - 10
+2018-08-01 15:12:44 INFO  UserController:91 - Inside user Controller : userLogin Get
+2018-08-01 15:12:52 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 15:12:52 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 15:12:52 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 15:12:52 DEBUG UserRepository:117 - pen
+2018-08-01 15:12:52 DEBUG UserRepository:118 - 10
+2018-08-01 15:12:52 DEBUG UserRepository:117 - pencil
+2018-08-01 15:12:52 DEBUG UserRepository:118 - 2
+2018-08-01 15:12:52 WARN  UserService:97 - pen
+2018-08-01 15:12:52 WARN  UserService:98 - 10
+2018-08-01 15:12:52 WARN  UserService:97 - pencil
+2018-08-01 15:12:52 WARN  UserService:98 - 2
+2018-08-01 15:12:56 INFO  UserController:130 - Inside user Controller : ModelAndView prodEdit
+2018-08-01 15:12:56 WARN  UserService:105 - Inside Service : editProduct
+2018-08-01 15:12:56 DEBUG UserRepository:125 - Inside Repository : editProduct
+2018-08-01 15:12:56 DEBUG UserRepository:132 - pen
+2018-08-01 15:12:56 DEBUG UserRepository:133 - 10
+2018-08-01 15:14:08 INFO  UserController:130 - Inside user Controller : ModelAndView prodEdit
+2018-08-01 15:14:08 WARN  UserService:105 - Inside Service : editProduct
+2018-08-01 15:14:08 DEBUG UserRepository:125 - Inside Repository : editProduct
+2018-08-01 15:14:08 DEBUG UserRepository:132 - pen
+2018-08-01 15:14:08 DEBUG UserRepository:133 - 10
+2018-08-01 15:18:51 INFO  UserController:91 - Inside user Controller : userLogin Get
+2018-08-01 15:19:00 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 15:19:00 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 15:19:00 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 15:19:00 DEBUG UserRepository:117 - pen
+2018-08-01 15:19:00 DEBUG UserRepository:118 - 10
+2018-08-01 15:19:00 DEBUG UserRepository:117 - pencil
+2018-08-01 15:19:00 DEBUG UserRepository:118 - 2
+2018-08-01 15:19:00 WARN  UserService:97 - pen
+2018-08-01 15:19:00 WARN  UserService:98 - 10
+2018-08-01 15:19:00 WARN  UserService:97 - pencil
+2018-08-01 15:19:00 WARN  UserService:98 - 2
+2018-08-01 15:19:04 INFO  UserController:130 - Inside user Controller : ModelAndView prodEdit
+2018-08-01 15:19:04 WARN  UserService:105 - Inside Service : editProduct
+2018-08-01 15:19:04 DEBUG UserRepository:125 - Inside Repository : editProduct
+2018-08-01 15:19:04 DEBUG UserRepository:132 - pen
+2018-08-01 15:19:04 DEBUG UserRepository:133 - 10
+2018-08-01 15:19:12 INFO  UserController:138 - Inside user Controller  : updateProduct Post
+2018-08-01 15:19:12 INFO  UserController:139 - 
+2018-08-01 15:19:12 INFO  UserController:140 - pen
+2018-08-01 15:19:12 WARN  UserService:111 - Inside UserService : updateProduct
+2018-08-01 15:19:12 INFO  UserService:112 - 
+2018-08-01 15:19:12 INFO  UserService:113 - pen
+2018-08-01 15:19:12 DEBUG UserRepository:140 - Inside Repository : updateProduct
+2018-08-01 15:19:12 INFO  UserRepository:141 - 
+2018-08-01 15:19:12 INFO  UserRepository:142 - pen
+2018-08-01 15:22:58 INFO  UserController:91 - Inside user Controller : userLogin Get
+2018-08-01 15:23:06 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 15:23:06 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 15:23:06 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 15:23:06 DEBUG UserRepository:117 - pen
+2018-08-01 15:23:06 DEBUG UserRepository:118 - 10
+2018-08-01 15:23:06 DEBUG UserRepository:117 - pencil
+2018-08-01 15:23:06 DEBUG UserRepository:118 - 2
+2018-08-01 15:23:06 WARN  UserService:97 - pen
+2018-08-01 15:23:06 WARN  UserService:98 - 10
+2018-08-01 15:23:06 WARN  UserService:97 - pencil
+2018-08-01 15:23:06 WARN  UserService:98 - 2
+2018-08-01 15:23:10 INFO  UserController:130 - Inside user Controller : ModelAndView prodEdit
+2018-08-01 15:23:10 WARN  UserService:105 - Inside Service : editProduct
+2018-08-01 15:23:10 DEBUG UserRepository:125 - Inside Repository : editProduct
+2018-08-01 15:23:10 DEBUG UserRepository:132 - pen
+2018-08-01 15:23:10 DEBUG UserRepository:133 - 10
+2018-08-01 15:23:15 INFO  UserController:138 - Inside user Controller  : updateProduct Post
+2018-08-01 15:23:15 INFO  UserController:139 - 20
+2018-08-01 15:23:15 INFO  UserController:140 - pen
+2018-08-01 15:23:15 WARN  UserService:111 - Inside UserService : updateProduct
+2018-08-01 15:23:15 INFO  UserService:112 - 20
+2018-08-01 15:23:15 INFO  UserService:113 - pen
+2018-08-01 15:23:15 DEBUG UserRepository:140 - Inside Repository : updateProduct
+2018-08-01 15:23:15 INFO  UserRepository:141 - 20
+2018-08-01 15:23:15 INFO  UserRepository:142 - pen
+2018-08-01 15:46:47 INFO  UserController:91 - Inside user Controller : userLogin Get
+2018-08-01 15:46:59 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 15:46:59 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 15:46:59 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 15:46:59 DEBUG UserRepository:117 - pen
+2018-08-01 15:46:59 DEBUG UserRepository:118 - 10
+2018-08-01 15:46:59 DEBUG UserRepository:117 - pencil
+2018-08-01 15:46:59 DEBUG UserRepository:118 - 2
+2018-08-01 15:46:59 WARN  UserService:97 - pen
+2018-08-01 15:46:59 WARN  UserService:98 - 10
+2018-08-01 15:46:59 WARN  UserService:97 - pencil
+2018-08-01 15:46:59 WARN  UserService:98 - 2
+2018-08-01 15:47:06 INFO  UserController:148 - Inside user Controller : deleteProduct
+2018-08-01 15:47:06 INFO  UserController:149 - Product ID: 20
+2018-08-01 15:47:06 DEBUG UserRepository:125 - Inside Repository : editProduct
+2018-08-01 15:47:06 DEBUG UserRepository:132 - pen
+2018-08-01 15:47:06 DEBUG UserRepository:133 - 10
+2018-08-01 15:47:06 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 15:47:06 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 15:47:06 DEBUG UserRepository:117 - pencil
+2018-08-01 15:47:06 DEBUG UserRepository:118 - 2
+2018-08-01 15:47:06 WARN  UserService:97 - pencil
+2018-08-01 15:47:06 WARN  UserService:98 - 2
+2018-08-01 15:51:39 INFO  UserController:91 - Inside user Controller : userLogin Get
+2018-08-01 15:51:47 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 15:51:47 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 15:51:47 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 15:51:47 DEBUG UserRepository:117 - pencil
+2018-08-01 15:51:47 DEBUG UserRepository:118 - 2
+2018-08-01 15:51:47 WARN  UserService:97 - pencil
+2018-08-01 15:51:47 WARN  UserService:98 - 2
+2018-08-01 15:51:57 INFO  UserController:120 - Inside Controller : addProductPost
+2018-08-01 15:51:57 INFO  UserController:121 - pencil
+2018-08-01 15:51:57 WARN  UserService:82 - Inside Service : addProduct
+2018-08-01 15:51:57 WARN  UserService:84 - pencil
+2018-08-01 15:51:57 WARN  UserService:85 - 10
+2018-08-01 15:51:57 DEBUG UserRepository:101 - Inside Repository : addProduct
+2018-08-01 15:51:57 DEBUG UserRepository:103 - pencil
+2018-08-01 15:51:57 DEBUG UserRepository:104 - 20
+2018-08-01 15:51:58 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 15:51:58 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 15:51:58 DEBUG UserRepository:117 - pencil
+2018-08-01 15:51:58 DEBUG UserRepository:118 - 2
+2018-08-01 15:51:58 DEBUG UserRepository:117 - pencil
+2018-08-01 15:51:58 DEBUG UserRepository:118 - 10
+2018-08-01 15:51:58 WARN  UserService:97 - pencil
+2018-08-01 15:51:58 WARN  UserService:98 - 2
+2018-08-01 15:51:58 WARN  UserService:97 - pencil
+2018-08-01 15:51:58 WARN  UserService:98 - 10
+2018-08-01 15:52:18 INFO  UserController:148 - Inside user Controller : deleteProduct
+2018-08-01 15:52:18 INFO  UserController:149 - Product ID: 22
+2018-08-01 15:52:18 DEBUG UserRepository:150 - Inside Repository : deleteProduct
+2018-08-01 15:52:18 DEBUG UserRepository:125 - Inside Repository : editProduct
+2018-08-01 15:52:18 DEBUG UserRepository:132 - pencil
+2018-08-01 15:52:18 DEBUG UserRepository:133 - 10
+2018-08-01 15:52:18 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 15:52:18 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 15:52:18 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 15:52:18 DEBUG UserRepository:117 - pencil
+2018-08-01 15:52:18 DEBUG UserRepository:118 - 2
+2018-08-01 15:52:18 WARN  UserService:97 - pencil
+2018-08-01 15:52:18 WARN  UserService:98 - 2
+2018-08-01 15:53:24 INFO  UserController:91 - Inside user Controller : userLogin Get
+2018-08-01 15:55:08 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 15:55:08 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 15:55:08 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 15:55:08 DEBUG UserRepository:117 - pencil
+2018-08-01 15:55:08 DEBUG UserRepository:118 - 2
+2018-08-01 15:55:08 WARN  UserService:97 - pencil
+2018-08-01 15:55:08 WARN  UserService:98 - 2
+2018-08-01 16:51:24 INFO  UserController:130 - Inside user Controller : ModelAndView prodEdit
+2018-08-01 16:51:24 WARN  UserService:105 - Inside Service : editProduct
+2018-08-01 16:51:24 DEBUG UserRepository:125 - Inside Repository : editProduct
+2018-08-01 16:51:24 DEBUG UserRepository:132 - pencil
+2018-08-01 16:51:24 DEBUG UserRepository:133 - 2
+2018-08-01 16:51:32 INFO  UserController:138 - Inside user Controller  : updateProduct Post
+2018-08-01 16:51:32 INFO  UserController:139 - 21
+2018-08-01 16:51:32 INFO  UserController:140 - pencil
+2018-08-01 16:51:32 WARN  UserService:111 - Inside UserService : updateProduct
+2018-08-01 16:51:32 INFO  UserService:112 - 21
+2018-08-01 16:51:32 INFO  UserService:113 - pencil
+2018-08-01 16:51:32 DEBUG UserRepository:140 - Inside Repository : updateProduct
+2018-08-01 16:51:32 INFO  UserRepository:141 - 21
+2018-08-01 16:51:32 INFO  UserRepository:142 - pencil
+2018-08-01 16:51:45 INFO  UserController:120 - Inside Controller : addProductPost
+2018-08-01 16:51:45 INFO  UserController:121 - pencil
+2018-08-01 16:51:45 WARN  UserService:82 - Inside Service : addProduct
+2018-08-01 16:51:45 WARN  UserService:84 - pencil
+2018-08-01 16:51:45 WARN  UserService:85 - 20
+2018-08-01 16:51:45 DEBUG UserRepository:101 - Inside Repository : addProduct
+2018-08-01 16:51:45 DEBUG UserRepository:103 - pencil
+2018-08-01 16:51:45 DEBUG UserRepository:104 - 50
+2018-08-01 16:51:45 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 16:51:45 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 16:51:45 DEBUG UserRepository:117 - pencil
+2018-08-01 16:51:45 DEBUG UserRepository:118 - 20
+2018-08-01 16:51:45 DEBUG UserRepository:117 - pencil
+2018-08-01 16:51:45 DEBUG UserRepository:118 - 20
+2018-08-01 16:51:45 WARN  UserService:97 - pencil
+2018-08-01 16:51:45 WARN  UserService:98 - 20
+2018-08-01 16:51:45 WARN  UserService:97 - pencil
+2018-08-01 16:51:45 WARN  UserService:98 - 20
+2018-08-01 16:51:51 INFO  UserController:130 - Inside user Controller : ModelAndView prodEdit
+2018-08-01 16:51:51 WARN  UserService:105 - Inside Service : editProduct
+2018-08-01 16:51:51 DEBUG UserRepository:125 - Inside Repository : editProduct
+2018-08-01 16:51:51 DEBUG UserRepository:132 - pencil
+2018-08-01 16:51:51 DEBUG UserRepository:133 - 20
+2018-08-01 16:51:59 INFO  UserController:138 - Inside user Controller  : updateProduct Post
+2018-08-01 16:51:59 INFO  UserController:139 - 21
+2018-08-01 16:51:59 INFO  UserController:140 - pencil
+2018-08-01 16:51:59 WARN  UserService:111 - Inside UserService : updateProduct
+2018-08-01 16:51:59 INFO  UserService:112 - 21
+2018-08-01 16:51:59 INFO  UserService:113 - pencil
+2018-08-01 16:51:59 DEBUG UserRepository:140 - Inside Repository : updateProduct
+2018-08-01 16:51:59 INFO  UserRepository:141 - 21
+2018-08-01 16:51:59 INFO  UserRepository:142 - pencil
+2018-08-01 16:52:10 INFO  UserController:138 - Inside user Controller  : updateProduct Post
+2018-08-01 16:52:10 INFO  UserController:139 - 21
+2018-08-01 16:52:10 INFO  UserController:140 - pencil
+2018-08-01 16:52:10 WARN  UserService:111 - Inside UserService : updateProduct
+2018-08-01 16:52:10 INFO  UserService:112 - 21
+2018-08-01 16:52:10 INFO  UserService:113 - pencil
+2018-08-01 16:52:10 DEBUG UserRepository:140 - Inside Repository : updateProduct
+2018-08-01 16:52:10 INFO  UserRepository:141 - 21
+2018-08-01 16:52:10 INFO  UserRepository:142 - pencil
+2018-08-01 16:52:16 INFO  UserController:120 - Inside Controller : addProductPost
+2018-08-01 16:52:16 INFO  UserController:121 - pencil
+2018-08-01 16:52:16 WARN  UserService:82 - Inside Service : addProduct
+2018-08-01 16:52:16 WARN  UserService:84 - pencil
+2018-08-01 16:52:16 WARN  UserService:85 - 30
+2018-08-01 16:52:16 DEBUG UserRepository:101 - Inside Repository : addProduct
+2018-08-01 16:52:16 DEBUG UserRepository:103 - pencil
+2018-08-01 16:52:16 DEBUG UserRepository:104 - 50
+2018-08-01 16:52:17 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 16:52:17 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 16:52:17 DEBUG UserRepository:117 - pencil
+2018-08-01 16:52:17 DEBUG UserRepository:118 - 30
+2018-08-01 16:52:17 DEBUG UserRepository:117 - pencil
+2018-08-01 16:52:17 DEBUG UserRepository:118 - 20
+2018-08-01 16:52:17 DEBUG UserRepository:117 - pencil
+2018-08-01 16:52:17 DEBUG UserRepository:118 - 30
+2018-08-01 16:52:17 WARN  UserService:97 - pencil
+2018-08-01 16:52:17 WARN  UserService:98 - 30
+2018-08-01 16:52:17 WARN  UserService:97 - pencil
+2018-08-01 16:52:17 WARN  UserService:98 - 20
+2018-08-01 16:52:17 WARN  UserService:97 - pencil
+2018-08-01 16:52:17 WARN  UserService:98 - 30
+2018-08-01 16:52:19 INFO  UserController:130 - Inside user Controller : ModelAndView prodEdit
+2018-08-01 16:52:19 WARN  UserService:105 - Inside Service : editProduct
+2018-08-01 16:52:19 DEBUG UserRepository:125 - Inside Repository : editProduct
+2018-08-01 16:52:19 DEBUG UserRepository:132 - pencil
+2018-08-01 16:52:19 DEBUG UserRepository:133 - 30
+2018-08-01 16:52:27 INFO  UserController:138 - Inside user Controller  : updateProduct Post
+2018-08-01 16:52:27 INFO  UserController:139 - 21
+2018-08-01 16:52:27 INFO  UserController:140 - pencil
+2018-08-01 16:52:27 WARN  UserService:111 - Inside UserService : updateProduct
+2018-08-01 16:52:27 INFO  UserService:112 - 21
+2018-08-01 16:52:27 INFO  UserService:113 - pencil
+2018-08-01 16:52:27 DEBUG UserRepository:140 - Inside Repository : updateProduct
+2018-08-01 16:52:27 INFO  UserRepository:141 - 21
+2018-08-01 16:52:27 INFO  UserRepository:142 - pencil
+2018-08-01 16:52:30 INFO  UserController:120 - Inside Controller : addProductPost
+2018-08-01 16:52:30 INFO  UserController:121 - pencil
+2018-08-01 16:52:30 WARN  UserService:82 - Inside Service : addProduct
+2018-08-01 16:52:30 WARN  UserService:84 - pencil
+2018-08-01 16:52:30 WARN  UserService:85 - 40
+2018-08-01 16:52:30 DEBUG UserRepository:101 - Inside Repository : addProduct
+2018-08-01 16:52:30 DEBUG UserRepository:103 - pencil
+2018-08-01 16:52:30 DEBUG UserRepository:104 - 50
+2018-08-01 16:52:30 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 16:52:30 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 16:52:30 DEBUG UserRepository:117 - pencil
+2018-08-01 16:52:30 DEBUG UserRepository:118 - 40
+2018-08-01 16:52:30 DEBUG UserRepository:117 - pencil
+2018-08-01 16:52:30 DEBUG UserRepository:118 - 20
+2018-08-01 16:52:30 DEBUG UserRepository:117 - pencil
+2018-08-01 16:52:30 DEBUG UserRepository:118 - 30
+2018-08-01 16:52:30 DEBUG UserRepository:117 - pencil
+2018-08-01 16:52:30 DEBUG UserRepository:118 - 40
+2018-08-01 16:52:30 WARN  UserService:97 - pencil
+2018-08-01 16:52:30 WARN  UserService:98 - 40
+2018-08-01 16:52:30 WARN  UserService:97 - pencil
+2018-08-01 16:52:30 WARN  UserService:98 - 20
+2018-08-01 16:52:30 WARN  UserService:97 - pencil
+2018-08-01 16:52:30 WARN  UserService:98 - 30
+2018-08-01 16:52:30 WARN  UserService:97 - pencil
+2018-08-01 16:52:30 WARN  UserService:98 - 40
+2018-08-01 16:59:54 INFO  UserController:91 - Inside user Controller : userLogin Get
+2018-08-01 17:00:02 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:00:02 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 17:00:02 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 17:00:02 DEBUG UserRepository:117 - pencil
+2018-08-01 17:00:02 DEBUG UserRepository:118 - 40
+2018-08-01 17:00:02 DEBUG UserRepository:117 - pencil
+2018-08-01 17:00:02 DEBUG UserRepository:118 - 20
+2018-08-01 17:00:02 DEBUG UserRepository:117 - pencil
+2018-08-01 17:00:02 DEBUG UserRepository:118 - 30
+2018-08-01 17:00:02 DEBUG UserRepository:117 - pencil
+2018-08-01 17:00:02 DEBUG UserRepository:118 - 40
+2018-08-01 17:00:02 WARN  UserService:97 - pencil
+2018-08-01 17:00:02 WARN  UserService:98 - 40
+2018-08-01 17:00:02 WARN  UserService:97 - pencil
+2018-08-01 17:00:02 WARN  UserService:98 - 20
+2018-08-01 17:00:02 WARN  UserService:97 - pencil
+2018-08-01 17:00:02 WARN  UserService:98 - 30
+2018-08-01 17:00:02 WARN  UserService:97 - pencil
+2018-08-01 17:00:02 WARN  UserService:98 - 40
+2018-08-01 17:00:05 INFO  UserController:130 - Inside user Controller : ModelAndView prodEdit
+2018-08-01 17:00:05 WARN  UserService:105 - Inside Service : editProduct
+2018-08-01 17:00:05 DEBUG UserRepository:125 - Inside Repository : editProduct
+2018-08-01 17:00:05 DEBUG UserRepository:132 - pencil
+2018-08-01 17:00:05 DEBUG UserRepository:133 - 40
+2018-08-01 17:00:30 INFO  UserController:138 - Inside user Controller  : updateProduct Post
+2018-08-01 17:00:30 INFO  UserController:139 - 21
+2018-08-01 17:00:30 INFO  UserController:140 - pen
+2018-08-01 17:00:30 WARN  UserService:111 - Inside UserService : updateProduct
+2018-08-01 17:00:30 INFO  UserService:112 - 21
+2018-08-01 17:00:30 INFO  UserService:113 - pen
+2018-08-01 17:00:30 DEBUG UserRepository:140 - Inside Repository : updateProduct
+2018-08-01 17:00:30 INFO  UserRepository:141 - 21
+2018-08-01 17:00:30 INFO  UserRepository:142 - pen
+2018-08-01 17:04:15 INFO  UserController:91 - Inside user Controller : userLogin Get
+2018-08-01 17:04:25 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:04:25 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 17:04:25 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 17:04:25 DEBUG UserRepository:117 - pen
+2018-08-01 17:04:25 DEBUG UserRepository:118 - 2
+2018-08-01 17:04:25 DEBUG UserRepository:117 - pencil
+2018-08-01 17:04:25 DEBUG UserRepository:118 - 20
+2018-08-01 17:04:25 DEBUG UserRepository:117 - pencil
+2018-08-01 17:04:25 DEBUG UserRepository:118 - 30
+2018-08-01 17:04:25 DEBUG UserRepository:117 - pencil
+2018-08-01 17:04:25 DEBUG UserRepository:118 - 40
+2018-08-01 17:04:25 WARN  UserService:97 - pen
+2018-08-01 17:04:25 WARN  UserService:98 - 2
+2018-08-01 17:04:25 WARN  UserService:97 - pencil
+2018-08-01 17:04:25 WARN  UserService:98 - 20
+2018-08-01 17:04:25 WARN  UserService:97 - pencil
+2018-08-01 17:04:25 WARN  UserService:98 - 30
+2018-08-01 17:04:25 WARN  UserService:97 - pencil
+2018-08-01 17:04:25 WARN  UserService:98 - 40
+2018-08-01 17:04:33 INFO  UserController:130 - Inside user Controller : ModelAndView prodEdit
+2018-08-01 17:04:33 WARN  UserService:105 - Inside Service : editProduct
+2018-08-01 17:04:33 DEBUG UserRepository:125 - Inside Repository : editProduct
+2018-08-01 17:04:33 DEBUG UserRepository:132 - pencil
+2018-08-01 17:04:33 DEBUG UserRepository:133 - 20
+2018-08-01 17:04:51 INFO  UserController:138 - Inside user Controller  : updateProduct Post
+2018-08-01 17:04:51 INFO  UserController:139 - 23
+2018-08-01 17:04:51 INFO  UserController:140 - pencil
+2018-08-01 17:04:51 WARN  UserService:111 - Inside UserService : updateProduct
+2018-08-01 17:04:51 INFO  UserService:112 - 23
+2018-08-01 17:04:51 INFO  UserService:113 - pencil
+2018-08-01 17:04:51 DEBUG UserRepository:140 - Inside Repository : updateProduct
+2018-08-01 17:04:51 INFO  UserRepository:141 - 23
+2018-08-01 17:04:51 INFO  UserRepository:142 - pencil
+2018-08-01 17:04:51 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 17:04:51 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 17:04:51 DEBUG UserRepository:117 - pen
+2018-08-01 17:04:51 DEBUG UserRepository:118 - 2
+2018-08-01 17:04:51 DEBUG UserRepository:117 - pencil
+2018-08-01 17:04:51 DEBUG UserRepository:118 - 10
+2018-08-01 17:04:51 DEBUG UserRepository:117 - pencil
+2018-08-01 17:04:51 DEBUG UserRepository:118 - 30
+2018-08-01 17:04:51 DEBUG UserRepository:117 - pencil
+2018-08-01 17:04:51 DEBUG UserRepository:118 - 40
+2018-08-01 17:04:51 WARN  UserService:97 - pen
+2018-08-01 17:04:51 WARN  UserService:98 - 2
+2018-08-01 17:04:51 WARN  UserService:97 - pencil
+2018-08-01 17:04:51 WARN  UserService:98 - 10
+2018-08-01 17:04:51 WARN  UserService:97 - pencil
+2018-08-01 17:04:51 WARN  UserService:98 - 30
+2018-08-01 17:04:51 WARN  UserService:97 - pencil
+2018-08-01 17:04:51 WARN  UserService:98 - 40
+2018-08-01 17:05:05 INFO  UserController:130 - Inside user Controller : ModelAndView prodEdit
+2018-08-01 17:05:05 WARN  UserService:105 - Inside Service : editProduct
+2018-08-01 17:05:05 DEBUG UserRepository:125 - Inside Repository : editProduct
+2018-08-01 17:05:05 DEBUG UserRepository:132 - pen
+2018-08-01 17:05:05 DEBUG UserRepository:133 - 2
+2018-08-01 17:05:12 INFO  UserController:138 - Inside user Controller  : updateProduct Post
+2018-08-01 17:05:12 INFO  UserController:139 - 21
+2018-08-01 17:05:12 INFO  UserController:140 - pen
+2018-08-01 17:05:12 WARN  UserService:111 - Inside UserService : updateProduct
+2018-08-01 17:05:12 INFO  UserService:112 - 21
+2018-08-01 17:05:12 INFO  UserService:113 - pen
+2018-08-01 17:05:12 DEBUG UserRepository:140 - Inside Repository : updateProduct
+2018-08-01 17:05:12 INFO  UserRepository:141 - 21
+2018-08-01 17:05:12 INFO  UserRepository:142 - pen
+2018-08-01 17:05:12 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 17:05:12 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 17:05:12 DEBUG UserRepository:117 - pen
+2018-08-01 17:05:12 DEBUG UserRepository:118 - 2
+2018-08-01 17:05:12 DEBUG UserRepository:117 - pencil
+2018-08-01 17:05:12 DEBUG UserRepository:118 - 10
+2018-08-01 17:05:12 DEBUG UserRepository:117 - pencil
+2018-08-01 17:05:12 DEBUG UserRepository:118 - 30
+2018-08-01 17:05:12 DEBUG UserRepository:117 - pencil
+2018-08-01 17:05:12 DEBUG UserRepository:118 - 40
+2018-08-01 17:05:12 WARN  UserService:97 - pen
+2018-08-01 17:05:12 WARN  UserService:98 - 2
+2018-08-01 17:05:12 WARN  UserService:97 - pencil
+2018-08-01 17:05:12 WARN  UserService:98 - 10
+2018-08-01 17:05:12 WARN  UserService:97 - pencil
+2018-08-01 17:05:12 WARN  UserService:98 - 30
+2018-08-01 17:05:12 WARN  UserService:97 - pencil
+2018-08-01 17:05:12 WARN  UserService:98 - 40
+2018-08-01 17:07:05 INFO  UserController:91 - Inside user Controller : userLogin Get
+2018-08-01 17:07:13 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:08:07 INFO  UserController:91 - Inside user Controller : userLogin Get
+2018-08-01 17:08:11 INFO  UserController:40 - Inside controller
+2018-08-01 17:08:11 INFO  UserController:41 - Inside controller : showUser
+2018-08-01 17:08:13 INFO  UserController:56 - Inside user Controller : getUserDetails
+2018-08-01 17:08:13 WARN  UserService:35 - Inside Service : getUserDetails
+2018-08-01 17:08:14 DEBUG UserRepository:35 - Inside Repository : getUserDetails
+2018-08-01 17:08:14 DEBUG UserRepository:41 - c
+2018-08-01 17:08:14 DEBUG UserRepository:42 - 123
+2018-08-01 17:08:14 DEBUG UserRepository:41 - Takshmalviya23@gmail.com
+2018-08-01 17:08:14 DEBUG UserRepository:42 - 123456
+2018-08-01 17:08:14 DEBUG UserRepository:41 - vishalpatidar54@gmail.com
+2018-08-01 17:08:14 DEBUG UserRepository:42 - 564
+2018-08-01 17:08:14 WARN  UserService:41 - c
+2018-08-01 17:08:14 WARN  UserService:42 - 123
+2018-08-01 17:08:14 WARN  UserService:41 - Takshmalviya23@gmail.com
+2018-08-01 17:08:14 WARN  UserService:42 - 123456
+2018-08-01 17:08:14 WARN  UserService:41 - vishalpatidar54@gmail.com
+2018-08-01 17:08:14 WARN  UserService:42 - 564
+2018-08-01 17:08:14 INFO  UserController:58 - 
+2018-08-01 17:08:14 INFO  UserController:59 - 
+2018-08-01 17:08:20 INFO  UserController:66 - Inside user Controller : ModelAndView edit
+2018-08-01 17:08:20 WARN  UserService:48 - Inside Service : editUser
+2018-08-01 17:08:20 DEBUG UserRepository:48 - Inside Repository : editUser
+2018-08-01 17:08:20 DEBUG UserRepository:55 - c
+2018-08-01 17:08:20 DEBUG UserRepository:56 - 123
+2018-08-01 17:08:31 INFO  UserController:66 - Inside user Controller : ModelAndView edit
+2018-08-01 17:08:31 WARN  UserService:48 - Inside Service : editUser
+2018-08-01 17:08:31 DEBUG UserRepository:48 - Inside Repository : editUser
+2018-08-01 17:08:31 DEBUG UserRepository:55 - Takshmalviya23@gmail.com
+2018-08-01 17:08:31 DEBUG UserRepository:56 - 123456
+2018-08-01 17:08:39 INFO  UserController:74 - Inside user Controller  : updateUser Post
+2018-08-01 17:08:39 WARN  UserService:54 - Inside UserService : updateUser
+2018-08-01 17:08:39 DEBUG UserRepository:64 - Inside employeeRepository : updateUser
+2018-08-01 17:08:42 INFO  UserController:74 - Inside user Controller  : updateUser Post
+2018-08-01 17:08:42 WARN  UserService:54 - Inside UserService : updateUser
+2018-08-01 17:08:42 DEBUG UserRepository:64 - Inside employeeRepository : updateUser
+2018-08-01 17:08:48 INFO  UserController:40 - Inside controller
+2018-08-01 17:08:48 INFO  UserController:41 - Inside controller : showUser
+2018-08-01 17:10:00 INFO  UserController:91 - Inside user Controller : userLogin Get
+2018-08-01 17:10:06 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:10:06 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 17:10:06 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 17:10:06 DEBUG UserRepository:117 - pen
+2018-08-01 17:10:06 DEBUG UserRepository:118 - 2
+2018-08-01 17:10:06 DEBUG UserRepository:117 - pencil
+2018-08-01 17:10:06 DEBUG UserRepository:118 - 10
+2018-08-01 17:10:06 DEBUG UserRepository:117 - pencil
+2018-08-01 17:10:06 DEBUG UserRepository:118 - 30
+2018-08-01 17:10:06 DEBUG UserRepository:117 - pencil
+2018-08-01 17:10:06 DEBUG UserRepository:118 - 40
+2018-08-01 17:10:06 WARN  UserService:97 - pen
+2018-08-01 17:10:06 WARN  UserService:98 - 2
+2018-08-01 17:10:06 WARN  UserService:97 - pencil
+2018-08-01 17:10:06 WARN  UserService:98 - 10
+2018-08-01 17:10:06 WARN  UserService:97 - pencil
+2018-08-01 17:10:06 WARN  UserService:98 - 30
+2018-08-01 17:10:06 WARN  UserService:97 - pencil
+2018-08-01 17:10:06 WARN  UserService:98 - 40
+2018-08-01 17:10:12 INFO  UserController:130 - Inside user Controller : ModelAndView prodEdit
+2018-08-01 17:10:12 WARN  UserService:105 - Inside Service : editProduct
+2018-08-01 17:10:12 DEBUG UserRepository:125 - Inside Repository : editProduct
+2018-08-01 17:10:12 DEBUG UserRepository:132 - pencil
+2018-08-01 17:10:12 DEBUG UserRepository:133 - 30
+2018-08-01 17:10:18 INFO  UserController:138 - Inside user Controller  : updateProduct Post
+2018-08-01 17:10:18 INFO  UserController:139 - 24
+2018-08-01 17:10:18 INFO  UserController:140 - pencil
+2018-08-01 17:10:18 WARN  UserService:111 - Inside UserService : updateProduct
+2018-08-01 17:10:18 INFO  UserService:112 - 24
+2018-08-01 17:10:18 INFO  UserService:113 - pencil
+2018-08-01 17:10:18 DEBUG UserRepository:140 - Inside Repository : updateProduct
+2018-08-01 17:10:18 INFO  UserRepository:141 - 24
+2018-08-01 17:10:18 INFO  UserRepository:142 - pencil
+2018-08-01 17:10:18 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 17:10:18 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 17:10:18 DEBUG UserRepository:117 - pen
+2018-08-01 17:10:18 DEBUG UserRepository:118 - 2
+2018-08-01 17:10:18 DEBUG UserRepository:117 - pencil
+2018-08-01 17:10:18 DEBUG UserRepository:118 - 10
+2018-08-01 17:10:18 DEBUG UserRepository:117 - pencil
+2018-08-01 17:10:18 DEBUG UserRepository:118 - 30
+2018-08-01 17:10:18 DEBUG UserRepository:117 - pencil
+2018-08-01 17:10:18 DEBUG UserRepository:118 - 40
+2018-08-01 17:10:18 WARN  UserService:97 - pen
+2018-08-01 17:10:18 WARN  UserService:98 - 2
+2018-08-01 17:10:18 WARN  UserService:97 - pencil
+2018-08-01 17:10:18 WARN  UserService:98 - 10
+2018-08-01 17:10:18 WARN  UserService:97 - pencil
+2018-08-01 17:10:18 WARN  UserService:98 - 30
+2018-08-01 17:10:18 WARN  UserService:97 - pencil
+2018-08-01 17:10:18 WARN  UserService:98 - 40
+2018-08-01 17:12:17 INFO  UserController:91 - Inside user Controller : userLogin Get
+2018-08-01 17:12:26 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:26 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:26 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:26 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:26 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:26 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:26 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:26 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:26 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:26 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:26 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:27 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:27 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:27 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:27 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:27 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:27 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:27 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:27 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:33 INFO  UserController:91 - Inside user Controller : userLogin Get
+2018-08-01 17:12:40 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:40 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:40 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:40 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:40 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:40 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:40 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:40 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:40 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:40 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:40 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:40 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:40 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:40 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:40 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:40 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:40 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:41 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:12:41 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:14:55 INFO  UserController:91 - Inside user Controller : userLogin Get
+2018-08-01 17:15:03 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:15:03 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 17:15:03 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 17:15:03 DEBUG UserRepository:117 - pen
+2018-08-01 17:15:03 DEBUG UserRepository:118 - 2
+2018-08-01 17:15:03 DEBUG UserRepository:117 - pencil
+2018-08-01 17:15:03 DEBUG UserRepository:118 - 10
+2018-08-01 17:15:03 DEBUG UserRepository:117 - pencil
+2018-08-01 17:15:03 DEBUG UserRepository:118 - 30
+2018-08-01 17:15:03 DEBUG UserRepository:117 - pencil
+2018-08-01 17:15:03 DEBUG UserRepository:118 - 40
+2018-08-01 17:15:03 WARN  UserService:97 - pen
+2018-08-01 17:15:03 WARN  UserService:98 - 2
+2018-08-01 17:15:03 WARN  UserService:97 - pencil
+2018-08-01 17:15:03 WARN  UserService:98 - 10
+2018-08-01 17:15:03 WARN  UserService:97 - pencil
+2018-08-01 17:15:03 WARN  UserService:98 - 30
+2018-08-01 17:15:03 WARN  UserService:97 - pencil
+2018-08-01 17:15:03 WARN  UserService:98 - 40
+2018-08-01 17:15:12 INFO  UserController:130 - Inside user Controller : ModelAndView prodEdit
+2018-08-01 17:15:12 WARN  UserService:105 - Inside Service : editProduct
+2018-08-01 17:15:12 DEBUG UserRepository:125 - Inside Repository : editProduct
+2018-08-01 17:15:12 DEBUG UserRepository:132 - pencil
+2018-08-01 17:15:12 DEBUG UserRepository:133 - 30
+2018-08-01 17:15:35 INFO  UserController:138 - Inside user Controller  : updateProduct Post
+2018-08-01 17:15:35 INFO  UserController:139 - 24
+2018-08-01 17:15:35 INFO  UserController:140 - mobile
+2018-08-01 17:15:35 WARN  UserService:111 - Inside UserService : updateProduct
+2018-08-01 17:15:35 INFO  UserService:112 - 24
+2018-08-01 17:15:35 INFO  UserService:113 - mobile
+2018-08-01 17:15:35 DEBUG UserRepository:140 - Inside Repository : updateProduct
+2018-08-01 17:15:35 INFO  UserRepository:141 - 24
+2018-08-01 17:15:35 INFO  UserRepository:142 - mobile
+2018-08-01 17:15:35 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:15:35 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 17:15:35 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 17:15:35 DEBUG UserRepository:117 - pen
+2018-08-01 17:15:35 DEBUG UserRepository:118 - 2
+2018-08-01 17:15:35 DEBUG UserRepository:117 - pencil
+2018-08-01 17:15:35 DEBUG UserRepository:118 - 10
+2018-08-01 17:15:35 DEBUG UserRepository:117 - mobile
+2018-08-01 17:15:35 DEBUG UserRepository:118 - 30000
+2018-08-01 17:15:35 DEBUG UserRepository:117 - pencil
+2018-08-01 17:15:35 DEBUG UserRepository:118 - 40
+2018-08-01 17:15:35 WARN  UserService:97 - pen
+2018-08-01 17:15:35 WARN  UserService:98 - 2
+2018-08-01 17:15:35 WARN  UserService:97 - pencil
+2018-08-01 17:15:35 WARN  UserService:98 - 10
+2018-08-01 17:15:35 WARN  UserService:97 - mobile
+2018-08-01 17:15:35 WARN  UserService:98 - 30000
+2018-08-01 17:15:35 WARN  UserService:97 - pencil
+2018-08-01 17:15:35 WARN  UserService:98 - 40
+2018-08-01 17:20:55 INFO  UserController:91 - Inside user Controller : userLogin Get
+2018-08-01 17:21:09 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:21:09 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 17:21:09 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 17:21:09 DEBUG UserRepository:117 - pen
+2018-08-01 17:21:09 DEBUG UserRepository:118 - 2
+2018-08-01 17:21:09 DEBUG UserRepository:117 - pencil
+2018-08-01 17:21:09 DEBUG UserRepository:118 - 10
+2018-08-01 17:21:09 DEBUG UserRepository:117 - mobile
+2018-08-01 17:21:09 DEBUG UserRepository:118 - 30000
+2018-08-01 17:21:09 DEBUG UserRepository:117 - pencil
+2018-08-01 17:21:09 DEBUG UserRepository:118 - 40
+2018-08-01 17:21:09 WARN  UserService:97 - pen
+2018-08-01 17:21:09 WARN  UserService:98 - 2
+2018-08-01 17:21:09 WARN  UserService:97 - pencil
+2018-08-01 17:21:09 WARN  UserService:98 - 10
+2018-08-01 17:21:09 WARN  UserService:97 - mobile
+2018-08-01 17:21:09 WARN  UserService:98 - 30000
+2018-08-01 17:21:09 WARN  UserService:97 - pencil
+2018-08-01 17:21:09 WARN  UserService:98 - 40
+2018-08-01 17:21:13 INFO  UserController:130 - Inside user Controller : ModelAndView prodEdit
+2018-08-01 17:21:13 WARN  UserService:105 - Inside Service : editProduct
+2018-08-01 17:21:13 DEBUG UserRepository:125 - Inside Repository : editProduct
+2018-08-01 17:21:13 DEBUG UserRepository:132 - pen
+2018-08-01 17:21:13 DEBUG UserRepository:133 - 2
+2018-08-01 17:21:19 INFO  UserController:139 - Inside user Controller  : updateProduct Post
+2018-08-01 17:21:19 INFO  UserController:140 - 21
+2018-08-01 17:21:19 INFO  UserController:141 - pen
+2018-08-01 17:21:19 WARN  UserService:111 - Inside UserService : updateProduct
+2018-08-01 17:21:19 INFO  UserService:112 - 21
+2018-08-01 17:21:19 INFO  UserService:113 - pen
+2018-08-01 17:21:19 DEBUG UserRepository:140 - Inside Repository : updateProduct
+2018-08-01 17:21:19 INFO  UserRepository:141 - 21
+2018-08-01 17:21:19 INFO  UserRepository:142 - pen
+2018-08-01 17:21:20 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:21:20 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 17:21:20 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 17:21:20 DEBUG UserRepository:117 - pen
+2018-08-01 17:21:20 DEBUG UserRepository:118 - 2
+2018-08-01 17:21:20 DEBUG UserRepository:117 - pencil
+2018-08-01 17:21:20 DEBUG UserRepository:118 - 10
+2018-08-01 17:21:20 DEBUG UserRepository:117 - mobile
+2018-08-01 17:21:20 DEBUG UserRepository:118 - 30000
+2018-08-01 17:21:20 DEBUG UserRepository:117 - pencil
+2018-08-01 17:21:20 DEBUG UserRepository:118 - 40
+2018-08-01 17:21:20 WARN  UserService:97 - pen
+2018-08-01 17:21:20 WARN  UserService:98 - 2
+2018-08-01 17:21:20 WARN  UserService:97 - pencil
+2018-08-01 17:21:20 WARN  UserService:98 - 10
+2018-08-01 17:21:20 WARN  UserService:97 - mobile
+2018-08-01 17:21:20 WARN  UserService:98 - 30000
+2018-08-01 17:21:20 WARN  UserService:97 - pencil
+2018-08-01 17:21:20 WARN  UserService:98 - 40
+2018-08-01 17:21:29 INFO  UserController:150 - Inside user Controller : deleteProduct
+2018-08-01 17:21:29 INFO  UserController:151 - Product ID: 25
+2018-08-01 17:21:29 DEBUG UserRepository:150 - Inside Repository : deleteProduct
+2018-08-01 17:21:29 DEBUG UserRepository:125 - Inside Repository : editProduct
+2018-08-01 17:21:29 DEBUG UserRepository:132 - pencil
+2018-08-01 17:21:29 DEBUG UserRepository:133 - 40
+2018-08-01 17:21:29 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:21:29 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 17:21:29 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 17:21:29 DEBUG UserRepository:117 - pen
+2018-08-01 17:21:29 DEBUG UserRepository:118 - 2
+2018-08-01 17:21:29 DEBUG UserRepository:117 - pencil
+2018-08-01 17:21:29 DEBUG UserRepository:118 - 10
+2018-08-01 17:21:29 DEBUG UserRepository:117 - mobile
+2018-08-01 17:21:29 DEBUG UserRepository:118 - 30000
+2018-08-01 17:21:29 WARN  UserService:97 - pen
+2018-08-01 17:21:29 WARN  UserService:98 - 2
+2018-08-01 17:21:29 WARN  UserService:97 - pencil
+2018-08-01 17:21:29 WARN  UserService:98 - 10
+2018-08-01 17:21:29 WARN  UserService:97 - mobile
+2018-08-01 17:21:29 WARN  UserService:98 - 30000
+2018-08-01 17:41:03 INFO  UserController:91 - Inside user Controller : userLogin Get
+2018-08-01 17:41:08 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:41:08 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 17:41:08 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 17:41:08 DEBUG UserRepository:117 - pen
+2018-08-01 17:41:08 DEBUG UserRepository:118 - 2
+2018-08-01 17:41:08 DEBUG UserRepository:117 - pencil
+2018-08-01 17:41:08 DEBUG UserRepository:118 - 10
+2018-08-01 17:41:08 DEBUG UserRepository:117 - mobile
+2018-08-01 17:41:08 DEBUG UserRepository:118 - 30000
+2018-08-01 17:41:08 WARN  UserService:97 - pen
+2018-08-01 17:41:08 WARN  UserService:98 - 2
+2018-08-01 17:41:08 WARN  UserService:97 - pencil
+2018-08-01 17:41:08 WARN  UserService:98 - 10
+2018-08-01 17:41:08 WARN  UserService:97 - mobile
+2018-08-01 17:41:08 WARN  UserService:98 - 30000
+2018-08-01 17:41:17 INFO  UserController:91 - Inside user Controller : userLogin Get
+2018-08-01 17:41:19 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:41:19 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 17:41:19 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 17:41:19 DEBUG UserRepository:117 - pen
+2018-08-01 17:41:19 DEBUG UserRepository:118 - 2
+2018-08-01 17:41:19 DEBUG UserRepository:117 - pencil
+2018-08-01 17:41:19 DEBUG UserRepository:118 - 10
+2018-08-01 17:41:19 DEBUG UserRepository:117 - mobile
+2018-08-01 17:41:19 DEBUG UserRepository:118 - 30000
+2018-08-01 17:41:19 WARN  UserService:97 - pen
+2018-08-01 17:41:19 WARN  UserService:98 - 2
+2018-08-01 17:41:19 WARN  UserService:97 - pencil
+2018-08-01 17:41:19 WARN  UserService:98 - 10
+2018-08-01 17:41:19 WARN  UserService:97 - mobile
+2018-08-01 17:41:19 WARN  UserService:98 - 30000
+2018-08-01 17:41:21 INFO  UserController:91 - Inside user Controller : userLogin Get
+2018-08-01 17:41:22 INFO  UserController:91 - Inside user Controller : userLogin Get
+2018-08-01 17:41:23 INFO  UserController:91 - Inside user Controller : userLogin Get
+2018-08-01 17:41:31 INFO  UserController:91 - Inside user Controller : userLogin Get
+2018-08-01 17:41:32 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:41:32 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 17:41:32 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 17:41:32 DEBUG UserRepository:117 - pen
+2018-08-01 17:41:32 DEBUG UserRepository:118 - 2
+2018-08-01 17:41:32 DEBUG UserRepository:117 - pencil
+2018-08-01 17:41:32 DEBUG UserRepository:118 - 10
+2018-08-01 17:41:32 DEBUG UserRepository:117 - mobile
+2018-08-01 17:41:32 DEBUG UserRepository:118 - 30000
+2018-08-01 17:41:32 WARN  UserService:97 - pen
+2018-08-01 17:41:32 WARN  UserService:98 - 2
+2018-08-01 17:41:32 WARN  UserService:97 - pencil
+2018-08-01 17:41:32 WARN  UserService:98 - 10
+2018-08-01 17:41:32 WARN  UserService:97 - mobile
+2018-08-01 17:41:32 WARN  UserService:98 - 30000
+2018-08-01 17:42:38 INFO  UserController:91 - Inside user Controller : userLogin Get
+2018-08-01 17:43:09 INFO  UserController:112 - Inside user Controller : addProductGet
+2018-08-01 17:43:09 WARN  UserService:91 - Inside Service : getProductDetails
+2018-08-01 17:43:09 DEBUG UserRepository:111 - Inside Repository : getProductDetails
+2018-08-01 17:43:09 DEBUG UserRepository:117 - pen
+2018-08-01 17:43:09 DEBUG UserRepository:118 - 2
+2018-08-01 17:43:09 DEBUG UserRepository:117 - pencil
+2018-08-01 17:43:09 DEBUG UserRepository:118 - 10
+2018-08-01 17:43:09 DEBUG UserRepository:117 - mobile
+2018-08-01 17:43:09 DEBUG UserRepository:118 - 30000
+2018-08-01 17:43:09 WARN  UserService:97 - pen
+2018-08-01 17:43:09 WARN  UserService:98 - 2
+2018-08-01 17:43:09 WARN  UserService:97 - pencil
+2018-08-01 17:43:09 WARN  UserService:98 - 10
+2018-08-01 17:43:09 WARN  UserService:97 - mobile
+2018-08-01 17:43:09 WARN  UserService:98 - 30000
+2018-08-01 17:45:19 INFO  UserController:91 - Inside user Controller : userLogin Get

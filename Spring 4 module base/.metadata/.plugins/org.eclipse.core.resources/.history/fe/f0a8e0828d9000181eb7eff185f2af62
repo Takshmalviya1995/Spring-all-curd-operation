@@ -1,0 +1,15 @@
+package com.aartek.repository;
+
+import org.springframework.stereotype.Repository;
+
+import com.aartek.model.Employee;
+
+@Repository
+public class EmployeeRepository {
+
+	public String checkEmployee(Employee emp)
+	{
+		System.out.println("inside employee Repository");
+		return "hi";
+	}
+}

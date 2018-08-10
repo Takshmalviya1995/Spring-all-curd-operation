@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1532518420734_0" label="SPRINGFOUR" name="SPRINGFOUR">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SpringFourWeb" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SPRINGFOUR" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SpringFourService" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SpringFourRepo" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1532518827764_1" label="Window Working Set" name="Aggregate for window 1532518827763"/>
+</workingSetManager>

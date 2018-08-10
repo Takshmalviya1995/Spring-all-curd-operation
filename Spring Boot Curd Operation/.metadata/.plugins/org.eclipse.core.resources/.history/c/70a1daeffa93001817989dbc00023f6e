@@ -1,0 +1,62 @@
+package com.aartek.repository;
+
+import java.util.Iterator;
+import java.util.List;
+
+import org.apache.log4j.Logger;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.orm.hibernate5.HibernateTemplate;
+import org.springframework.stereotype.Repository;
+import org.springframework.transaction.annotation.Transactional;
+
+import com.aartek.model.User;
+
+@Repository
+@Transactional
+public class UserRepository {
+
+	@Autowired
+	private HibernateTemplate hibernatetemplate;
+	
+	final static Logger logger = Logger.getLogger(UserRepository.class);
+	public String checkUser(User user)
+	{
+		logger.debug("Inside Repository : checkUser");
+		
+		logger.debug(user.getEmail());
+		logger.debug(user.getPassword());
+		hibernatetemplate.save(user);
+		return "user";
+	}
+	public List getUserDetails(User user)
+	{
+		logger.debug("Inside Repository : getUserDetails");
+		List list = hibernatetemplate.find("from User");
+		Iterator itr = list.iterator();
+		while (itr.hasNext())
+		{
+			User use = (User)itr.next();
+			logger.debug(use.getEmail());
+			logger.debug(use.getPassword());
+		}
+		return list; 	
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	public Boolean userRepoCheck(String email,String password)
+	{
+		System.out.println("Inside UserRepository : loginRepoCheck() ");
+		System.out.println(email);
+		System.out.println(password);
+		return true;
+		
+	}
+}

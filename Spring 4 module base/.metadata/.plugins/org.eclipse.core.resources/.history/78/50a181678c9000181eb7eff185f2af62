@@ -1,0 +1,12 @@
+package com.aartek.repository;
+
+import com.aartek.model.Employee;
+
+public class EmployeeRepository {
+
+	public String checkEmployee(Employee emp)
+	{
+		System.out.println("inside employee Repository");
+		return "hi";
+	}
+}

@@ -1,0 +1,11 @@
+package com.aartek.controller;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class LoginController {
+   public String showLogin(){
+	   System.out.println("Inside controller");
+	   return "login";
+   }
+}

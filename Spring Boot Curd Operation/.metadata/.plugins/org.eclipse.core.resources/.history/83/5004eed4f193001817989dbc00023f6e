@@ -1,0 +1,29 @@
+package com.aartek.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import org.apache.log4j.Logger;
+import com.aartek.model.User;
+import com.aartek.repository.UserRepository;
+
+
+@Service
+public class UserService {
+	@Autowired
+	private UserRepository loginrepository; 
+	
+	final static Logger logger = Logger.getLogger(UserService.class);
+
+	public String checkUser(User user)
+	{
+		logger.warn("Inside Service : checkUser");
+		
+		logger.warn(user.getEmail());
+		logger.warn(user.getPassword());
+		
+		loginrepository.checkLogin(user);
+		
+		return "hello";
+	}
+}

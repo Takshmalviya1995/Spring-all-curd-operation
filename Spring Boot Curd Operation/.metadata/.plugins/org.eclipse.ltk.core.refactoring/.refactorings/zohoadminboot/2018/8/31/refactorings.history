@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;zohoadminboot/src/main/webapp/WEB-INF/jsp/allproduct.jsp&apos; to &apos;updateproduct.jsp&apos;" description="Rename resource &apos;allproduct.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/WEB-INF/jsp/allproduct.jsp" name="updateproduct.jsp" stamp="1533109164154" updateReferences="true"/>
+</session>

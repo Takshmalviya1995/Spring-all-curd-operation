@@ -1,0 +1,29 @@
+
+q
+squid:S106."9Replace this use of System.out or System.err by a logger.(À“ğ’ûÿÿÿÿ8¦‚ÜÍ,HËRMAJORZ
+CODE_SMELL
+q
+squid:S1065"9Replace this use of System.out or System.err by a logger.(Ã¸·€üÿÿÿÿ8­¥«Í,HáRMAJORZ
+CODE_SMELL
+l
+squid:S106I"9Replace this use of System.out or System.err by a logger.(æÏª·8¦ºÆßÍ,HŠ
+RMAJORZ
+CODE_SMELL
+‰squid:S1192/"MDefine a constant instead of duplicating this literal "allemployees" 3 times.(è„£Šûÿÿÿÿ8‚ãÉßÍ,H
+RCRITICALZ
+CODE_SMELL
+q
+squid:S106>"9Replace this use of System.out or System.err by a logger.(¦÷ÒÌøÿÿÿÿ8ù»üŒÍ,HßRMAJORZ
+CODE_SMELL
+q
+squid:S106,"9Replace this use of System.out or System.err by a logger.(íÄÉĞúÿÿÿÿ8¤ÛÚÍ,HæRMAJORZ
+CODE_SMELL
+l
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ıÁ¢¬8¤ÛÚÍ,HçRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(„çí¹8ŠŞÚÜÍ,HRMAJORZ
+CODE_SMELL
+q
+squid:S106$"9Replace this use of System.out or System.err by a logger.(†‹üüÿÿÿÿ8ù»üŒÍ,HäRMAJORZ
+CODE_SMELL

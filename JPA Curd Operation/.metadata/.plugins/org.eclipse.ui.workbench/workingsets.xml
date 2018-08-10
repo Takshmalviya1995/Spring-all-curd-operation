@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1533195553341_0" label="Spring_Boot_JPA" name="Spring_Boot_JPA">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Spring_Boot_JPA" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Repository" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Web" type="4"/>
+</workingSet>
+</workingSetManager>

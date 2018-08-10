@@ -1,0 +1,14 @@
+package com.aartek.service;
+
+import org.springframework.stereotype.Service;
+
+import com.aartek.model.Employee;
+@Service
+public class EmployeeService {
+
+	public String checkEmployee(Employee emp)
+	{
+		System.out.println("inside employee Service");
+		return "hello";
+	}
+}

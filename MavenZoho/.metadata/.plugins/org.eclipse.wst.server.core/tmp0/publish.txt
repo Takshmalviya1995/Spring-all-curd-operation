@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Tue Jun 26 12:23:51 IST 2018
+org.eclipse.jst.j2ee.server\:ZOHO-Repository=WEB-INF/lib/ZOHO-Repository-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\user\\.m2\\repository\\org\\springframework\\spring-web\\3.2.0.RELEASE\\spring-web-3.2.0.RELEASE.jar=WEB-INF/lib/spring-web-3.2.0.RELEASE.jar
+org.eclipse.jst.j2ee.server\:ZOHO-Service=WEB-INF/lib/ZOHO-Service-0.0.1-SNAPSHOT.jar

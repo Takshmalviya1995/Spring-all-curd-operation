@@ -1,0 +1,7 @@
+
+jsquid:S3878!"8Remove this array creation and simply pass the elements.(Þ†ï‘ÿÿÿÿÿHðRMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(ÒÉê­úÿÿÿÿ8å‚¶§Í,HŒRMAJORZ
+CODE_SMELL
+squid:S1488D"iImmediately return this expression instead of assigning it to the temporary variable "hibernatetemplate".(õˆÏþ8«ù·§Í,H•RMINORZ
+CODE_SMELL

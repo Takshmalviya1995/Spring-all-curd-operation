@@ -1,0 +1,5 @@
+package com.aartek.repository;
+
+public class EmployeeRepository {
+
+}

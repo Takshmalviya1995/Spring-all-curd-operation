@@ -1,0 +1,89 @@
+package com.aartek.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import java.util.Iterator;
+import java.util.List;
+
+import org.apache.log4j.Logger;
+
+import com.aartek.model.Product;
+import com.aartek.model.User;
+import com.aartek.repository.UserRepository;
+
+
+@Service
+public class UserService {
+	@Autowired
+	private UserRepository userrepository; 
+	 Boolean status = false;
+	
+	final static Logger logger = Logger.getLogger(UserService.class);
+
+	public void checkUser(User user)
+	{
+		logger.warn("Inside Service : checkUser");
+		
+		logger.warn(user.getEmail());
+		logger.warn(user.getPassword());
+		userrepository.checkUser(user);
+	}
+	
+	public List getUserDetails(User user)
+	{
+		logger.warn("Inside Service : getUserDetails");
+		List list = userrepository.getUserDetails(user);
+		Iterator itr = list.iterator();
+		while(itr.hasNext())
+		{
+			User use = (User)itr.next();
+			logger.warn(use.getEmail());
+			logger.warn(use.getPassword());	
+		}
+		return list;	
+	}
+	public User editUser(Integer eid)
+	{
+		logger.warn("Inside Service : editUser");
+		User use = userrepository.editUser(eid);
+		return use;
+	}
+	public void updateUser(User use)
+	{
+		logger.warn("Inside UserService : updateUser");
+		userrepository.updateUser(use);
+	}
+	public User deleteUser(Integer id)
+	{
+		System.out.println("USer Service : deleteEmployeeService");
+		User user=userrepository.deleteUser(id);
+		return user;
+	}
+	
+	public boolean checkLogin(User user)
+	{
+		System.out.println("User Service : checkLogin");
+		User user1 = userrepository.checkLogin(user);
+		if(user1!=null)
+		{
+			status = true;
+		}
+		else
+		{
+			System.out.println("Invalid User");
+		}
+		return status;	
+	}
+	
+
+	public void addProduct(Product product)
+	{
+		logger.warn("Inside Service : addProduct");
+		
+		logger.warn(product.getProdname());
+		logger.warn(product.getProdprice());
+		userrepository.addProduct(product);
+	}
+
+}

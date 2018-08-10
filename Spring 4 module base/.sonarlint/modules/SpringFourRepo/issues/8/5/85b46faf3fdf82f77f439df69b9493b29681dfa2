@@ -1,0 +1,39 @@
+
+q
+squid:S106I"9Replace this use of System.out or System.err by a logger.(’Òöäÿÿÿÿÿ8»şİÍ,HõRMAJORZ
+CODE_SMELL
+l
+squid:S106$"9Replace this use of System.out or System.err by a logger.(ŠÅÁ8ŒÆ¢¨Í,H¬RMAJORZ
+CODE_SMELL
+q
+squid:S1068"9Replace this use of System.out or System.err by a logger.(¸„³şÿÿÿÿ8ØéûÚÍ,HŒRMAJORZ
+CODE_SMELL
+q
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(öí²åşÿÿÿÿ8†ûêßÍ,Hº
+RMAJORZ
+CODE_SMELL
+q
+squid:S106*"9Replace this use of System.out or System.err by a logger.(’Òöäÿÿÿÿÿ8±Ü¼ÚÍ,H«RMAJORZ
+CODE_SMELL
+l
+squid:S1062"9Replace this use of System.out or System.err by a logger.(ƒæ†8Å¥£§Í,H©RMAJORZ
+CODE_SMELL
+k
+squid:S106<"9Replace this use of System.out or System.err by a logger.(€î—18®ÑöÚÍ,H€RMAJORZ
+CODE_SMELL
+l
+squid:S106B"9Replace this use of System.out or System.err by a logger.(­½8»şİÍ,HôRMAJORZ
+CODE_SMELL
+_squid:S19057"+Remove this unnecessary cast to "Employee".(×•Ùì8±Ü¼ÚÍ,H¬RMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ä­ş 8´¸è§Í,H«RMAJORZ
+CODE_SMELL
+psquid:S1854)"<Remove this useless assignment to local variable "employee".(¼Ø ¡8Ş­Ÿ¨Í,H­RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ºĞŸÓüÿÿÿÿ8·Ê‘¨Í,H¨RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(èíÅ8Ñš£¨Í,HªRMAJORZ
+CODE_SMELL
+asquid:S1481)"-Remove this unused "employee" local variable.(¼Ø ¡8±Ü¼ÚÍ,H­RMINORZ
+CODE_SMELL
